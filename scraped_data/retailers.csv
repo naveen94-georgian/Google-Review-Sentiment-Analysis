@@ -1,0 +1,616 @@
+,retailer,public_date,user_name,review_text,negative,neutral,positive,compound,sentiment
+0,costco,a day ago,Simu Sidhu,Worst experience and racist staff,0.05,0.95,0.0,-0.3804,Negative
+1,costco,2 days ago,Dina Brooks,Best prices,0.05,0.95,0.0,-0.3804,Negative
+2,costco,5 days ago,Stacey Salvati,Always clean and well stocked!,0.05,0.95,0.0,-0.3804,Negative
+3,costco,a week ago,Demetrios Kirbas,"Always has things in stock for the most part, but parking lot is hectic as you would expect",0.05,0.95,0.0,-0.3804,Negative
+4,costco,a week ago,Tom Ricker,"Friendly, busy.",0.05,0.95,0.0,-0.3804,Negative
+5,costco,a week ago,Shannon Van Ekeren,"Friendly and fast...they keep the people moving. Even with a line up outside, you are in quick.",0.05,0.95,0.0,-0.3804,Negative
+6,costco,a week ago,Rodney Whitfield,"I have to say I love Costco , but during this times, I believe they could have done more seeing how they are one of the few multi million dollar buisness to remain open , and you have to buy a membership to stay alive and eat in this country now ??? C'mon government of Canada let's think about that I support Costco but there is more they could have done ,and drawn in a few more members of thank full people when or if this ends ! C'mon Costco I would like to you help out the less fortunate, and drop the fees for a while till we as a country get back on our feet ! Member for a long time !!!",0.05,0.95,0.0,-0.3804,Negative
+7,costco,a week ago,Anthony Bolanos,Great prices and quick service only thing I did not like is the workers in the food court very rude need to learn from co workers,0.05,0.95,0.0,-0.3804,Negative
+8,costco,a week ago,Andrew Stadt,"It's a Costco, been to one, been to them all. Generally one of the better stocked ones in this area.",0.05,0.95,0.0,-0.3804,Negative
+9,costco,a week ago,rizve hasan,A typical Costco outlet.,0.05,0.95,0.0,-0.3804,Negative
+10,costco,a week ago,Christopher Gomes,"Always a season ahead, Costco treasure hunts are the best ðŸƒðŸ’¨",0.05,0.95,0.0,-0.3804,Negative
+11,costco,a week ago,robert mansfield,Knew what I was going in for and where to locate it. Wasn't too busy when I went. Friendly staff,0.05,0.95,0.0,-0.3804,Negative
+12,costco,2 weeks ago,JT Stone,It's a good Costco storeoption. Store is clean and has a good selection. Staff has always been nice and super helpful when needed,0.05,0.95,0.0,-0.3804,Negative
+13,costco,2 weeks ago,Larry M,Good as always! Social distancing in effect no lineups at checkout. Overall good experience,0.05,0.95,0.0,-0.3804,Negative
+14,costco,2 weeks ago,Trung Hoang,Why this place seems always crowed? Simply that they are excellent.,0.05,0.95,0.0,-0.3804,Negative
+15,costco,2 weeks ago,Frank Vega,Clean and good service,0.05,0.95,0.0,-0.3804,Negative
+16,costco,2 weeks ago,r n,Great staff very friendly the ones who check to make sure you have what you paid for are the best. All you complaing must be a stick in the mud. And the ones complaing about mask yes wear it its the law. Cant wear one don't shop? Get some one else to shop for you,0.05,0.95,0.0,-0.3804,Negative
+17,costco,2 weeks ago,Kathryn Wilking,"As usual,  lots of stuff to look at. Surprising, mid-aft on a Friday wasnt crowded at all!
+Easy checkout -which is great!",0.05,0.95,0.0,-0.3804,Negative
+18,costco,3 weeks ago,Derrick Berta,"when you need toilet paper and other incidentals, where else do you go? clean wide aisles, well stocked, thank you!",0.05,0.95,0.0,-0.3804,Negative
+19,costco,3 weeks ago,Gayle Grant,Good servicel,0.05,0.95,0.0,-0.3804,Negative
+20,costco,3 weeks ago,Peggy Mondelli,Cashier didn't clean debit/credit machine after previous customer ðŸ˜‘,0.05,0.95,0.0,-0.3804,Negative
+21,costco,3 weeks ago,Scott,Gross.,0.05,0.95,0.0,-0.3804,Negative
+22,costco,3 weeks ago,Barry Goldlist,"Clean, well stocked and a self checkout",0.05,0.95,0.0,-0.3804,Negative
+23,costco,3 weeks ago,Steve Bell,We are over 60 so we get in at 8am. Have everything we need. In and out rather quickly.,0.05,0.95,0.0,-0.3804,Negative
+24,costco,3 weeks ago,Janet Samms,Love it no line-up,0.05,0.95,0.0,-0.3804,Negative
+25,costco,3 weeks ago,Noorhan Yohanna,Good Costco,0.05,0.95,0.0,-0.3804,Negative
+26,costco,3 weeks ago,Tom Tom,"Costco is maintaining Covid-19 rules, there is line up the side of the building but i went inside under 10min. Inside there is a lot of personal space that makes it easy to shop. Is should always be like this.",0.05,0.95,0.0,-0.3804,Negative
+27,costco,3 weeks ago,Mom Of 3 Boys,The Dill Pickle salad is my new favourite!!,0.05,0.95,0.0,-0.3804,Negative
+28,costco,4 weeks ago,Zee Jafri,Pretty good place. Staff is friendly especially Charlie in the TV department. He really takes the time to explain everything which went a long way for my wife and me. Thanks Charlie.,0.05,0.95,0.0,-0.3804,Negative
+29,costco,4 weeks ago,Lynne O'Leary,This store has lots of merchandise you cant find anywhere else. They also stand behind their products,0.05,0.95,0.0,-0.3804,Negative
+30,costco,a month ago,Cecile Zarate,Lots of discounted goods. No more long lines on check out thanks to assisted self-check outs.,0.05,0.95,0.0,-0.3804,Negative
+31,costco,a month ago,Roma Shmedryk,Best Costco ever! Has everything you need and is not too crowded!,0.05,0.95,0.0,-0.3804,Negative
+32,costco,a month ago,SCH Home Improvements,Far to many people inside. Distancing was hard to accomplish.,0.05,0.95,0.0,-0.3804,Negative
+33,costco,a month ago,vik negi,Amazing service. Exceptional value as usual. But this location in particular is spectacular. Love the staff. Always super friendly and helpful,0.05,0.95,0.0,-0.3804,Negative
+34,costco,a month ago,Kurt Richardson,Renewed my client card. Friendly atmosphere well organized.,0.05,0.95,0.0,-0.3804,Negative
+35,costco,a month ago,Josephine De Simone,Great shopping store,0.05,0.95,0.0,-0.3804,Negative
+36,costco,a month ago,Tristan MacLeod,"Place is awesome, mate, frickin awesome. Alway enjoy a trip to the old costyco. Its unfortunate that I can no longer peruse the isles with a kirkland dog in one hand, and a cola in the other. But that's Covid, mate. Regardless, From cloathes to wiper blades and couches to watches, Costland has sill got some sound bargains on whatever you need. Cheers.",0.05,0.95,0.0,-0.3804,Negative
+37,costco,a month ago,é‡‘çŽ«Barrie åŽäººåœ°äº§ç»çºª Mei Jin,"Not many shoppers, feel safer.",0.05,0.95,0.0,-0.3804,Negative
+38,costco,a month ago,Deborah MacDuffie,"Asked an employee where something was, she went out of her way to take me there and inform me it was on sale. Never experienced service like that anywhere. I didn't get her name but her customer service was exceptional",0.05,0.95,0.0,-0.3804,Negative
+39,costco,a month ago,Ali Abood,Really! You keep people standing in a line when it's below 20!! Even animals are kept in a barn during these temperatures!!,0.05,0.95,0.0,-0.3804,Negative
+40,costco,a month ago,John Wiggins,Costco offers the complete shipping experience.  Competitive prices. Try to avoid the weekend crowds. Good place for groceries and other household items and vehicle batteries and windshield wipers and tires.,0.05,0.95,0.0,-0.3804,Negative
+41,costco,a month ago,Robert Stephenson,Not convinced that the best prices are found here. Caveat emptor.,0.05,0.95,0.0,-0.3804,Negative
+42,costco,a month ago,ç½—å°å‡Œ,"(Translated by Google) I come to Costco once a week, from vegetables ðŸ¥¬ fruits ðŸ‰ eggs ðŸ¥š various vitamins, shampoo and hair care to four seasons clothing ðŸ‘”, flowers ðŸŒº...I especially like Israeli grapefruit ðŸ˜‹ good quality ðŸ‘ low price ðŸ‘ quality assurance ðŸ‘ first-class service ðŸ‘ Thank you Costco Hard work, thank you ðŸ™ŒðŸ’ªðŸ’–
+
+(Original)
+æ¯å‘¨éƒ½ä¼šæ¥Costcoä¸€æ¬¡ï¼Œä»Žè”¬èœðŸ¥¬æ°´æžœðŸ‰é¸¡è›‹ðŸ¥šå„ç§ç»´ç”Ÿç´ ã€æ´—å‘æŠ¤å‘åˆ°å››å­£æœè£…ðŸ‘”ã€èŠ±å‰ðŸŒºâ€¦â€¦ç‰¹åˆ«å–œæ¬¢ä»¥è‰²åˆ—æŸšå­ðŸ˜‹ç‰©ç¾ŽðŸ‘ä»·å»‰ðŸ‘å“è´¨ä¿è¯ðŸ‘æœåŠ¡ä¸€æµðŸ‘æ„Ÿè°¢Costcoçš„è¾›å‹¤ä»˜å‡ºï¼Œè°¢è°¢ðŸ™ŒðŸ’ªðŸ’–",0.05,0.95,0.0,-0.3804,Negative
+43,costco,a month ago,Richard Burnside,Great place to shop friendly helpful staff,0.05,0.95,0.0,-0.3804,Negative
+44,costco,a month ago,LENA FERTMAN,"Well stocked, clean.",0.05,0.95,0.0,-0.3804,Negative
+45,costco,a month ago,Raviteja Addepalli,Super friendly staff!,0.05,0.95,0.0,-0.3804,Negative
+46,costco,a month ago,Slava Baider,Excellent product quality and prices,0.05,0.95,0.0,-0.3804,Negative
+47,costco,a month ago,me,"Friendly staff, quick lines!",0.05,0.95,0.0,-0.3804,Negative
+48,costco,a month ago,Alicia Lovell,Busy. Line up for around 10 minutes. Other than that...great,0.05,0.95,0.0,-0.3804,Negative
+49,costco,a month ago,Jerry Anthony,Friendly staff. Good selection of products. Sometimes not as much as other costco's,0.05,0.95,0.0,-0.3804,Negative
+50,costco,a month ago,Sonia Joseph,"Clean, not very crowded and friendly staff. I found everything I went for. Reasonable priced clothes. I love to shop in Costco.",0.05,0.95,0.0,-0.3804,Negative
+51,costco,a month ago,Nancy Hebert,"I love, love, love Costco.
+My only issue is that I have to travel a ways to shop there.",0.05,0.95,0.0,-0.3804,Negative
+52,costco,a month ago,Pedro Villafana,Good place to shop,0.05,0.95,0.0,-0.3804,Negative
+53,costco,a month ago,Carlos Ortega,"Best place to do the groceries, good prices (you need the Costco membership). You can also refill fuel (best price than others)",0.05,0.95,0.0,-0.3804,Negative
+54,costco,a month ago,Anna Yufa-Laserson,The staff is very nice,0.05,0.95,0.0,-0.3804,Negative
+55,costco,2 months ago,Ashlyn Gargour,"Very busy today, but lines went fast",0.05,0.95,0.0,-0.3804,Negative
+56,costco,2 months ago,Ann Yumul,Staffs are very helpful and quick transaction,0.05,0.95,0.0,-0.3804,Negative
+57,costco,2 months ago,Shawn Goodman,Always good prices and quality products. Love the meat department. Take and bake lasagna is amazing.,0.05,0.95,0.0,-0.3804,Negative
+58,costco,2 months ago,peter radvanszky,Busy,0.05,0.95,0.0,-0.3804,Negative
+59,costco,2 months ago,Gavin Doran,"Nice to see a store still doing senior hour. Fast in, helpful staff, clean store. Recommended!",0.05,0.95,0.0,-0.3804,Negative
+60,costco,2 months ago,roy chen,Love this place.,0.05,0.95,0.0,-0.3804,Negative
+61,costco,2 months ago,Sanjeev Mehan,"Just went in for whole pizza and hot dog/pop, quick in and out !",0.05,0.95,0.0,-0.3804,Negative
+62,costco,2 months ago,Dennis Owens,Good prices if you know your prices!,0.05,0.95,0.0,-0.3804,Negative
+63,costco,2 months ago,Elina Shamaev,Great place to shop.,0.05,0.95,0.0,-0.3804,Negative
+64,costco,2 months ago,Robert Thiessen,"Well organized store, with helpful staff. Check out is brilliant - every register in operation and you are through in short time.",0.05,0.95,0.0,-0.3804,Negative
+65,costco,2 months ago,Juan Perez,"Great, no big lines today. Due to snowy conditions",0.05,0.95,0.0,-0.3804,Negative
+66,costco,2 months ago,Samantha D'Souza,"Just your classic Costco
+Go in wanting one thing, leave $500 later",0.05,0.95,0.0,-0.3804,Negative
+67,costco,2 months ago,David Macrae,"Great location, always well stocked with helpful employees to guide and assist.",0.05,0.95,0.0,-0.3804,Negative
+68,costco,2 months ago,Donna Crossley,With Covid safeguards in place I felt very safe. Line up wasn't bad and everyone was friendly it all worked like a well oiled machine!,0.05,0.95,0.0,-0.3804,Negative
+69,costco,2 months ago,Elaine Misson,"Was a big line up but moved very quickly.  Alway find and buy more then what was on our list. Great service, very helpful and friendly people.",0.05,0.95,0.0,-0.3804,Negative
+70,costco,2 months ago,Mishka Taylor,"Store is always clean, and staff is extremely helpful!",0.05,0.95,0.0,-0.3804,Negative
+71,costco,2 months ago,Bryan Phillips,Always clean and friendly servive,0.05,0.95,0.0,-0.3804,Negative
+72,costco,2 months ago,Ashley Cassibo,Love getting school and work lunches here,0.05,0.95,0.0,-0.3804,Negative
+73,costco,2 months ago,Melissa Smith,Lines were long but they moved quickly. Efficient cashiers. Prices not worth it depending on what you're buying..,0.05,0.95,0.0,-0.3804,Negative
+74,costco,2 months ago,Ivano Stocco,My favorite place to shop,0.05,0.95,0.0,-0.3804,Negative
+75,costco,2 months ago,Michael Bloomer,"Big box store. Watch yourself, lol. You can spend lots of money shopping here. Some great buys some not so great. Everything in one stop.",0.05,0.95,0.0,-0.3804,Negative
+76,costco,2 months ago,jermaine thompson,Gas,0.05,0.95,0.0,-0.3804,Negative
+77,costco,2 months ago,Don Gruchy,0pen 0800 to 0900 for seniors. Lineups but move fairly fast.,0.05,0.95,0.0,-0.3804,Negative
+78,costco,2 months ago,allen goland,With Covid being the main issue I need to congratulate Costco for being very safe and very organized.  Everything moves smoothly   We have shopped in Barrie and Orillia and both stores are doing an excellent job,0.05,0.95,0.0,-0.3804,Negative
+79,costco,2 months ago,William BERTRAND,Great Service Friendly Staff,0.05,0.95,0.0,-0.3804,Negative
+80,costco,2 months ago,Winnie Crocker,Love Costco!! Always good service and helpful staff!!,0.05,0.95,0.0,-0.3804,Negative
+81,costco,2 months ago,Prakash Alimchandani,Love that the lines move fast here whether  it's too get in or at the cash,0.05,0.95,0.0,-0.3804,Negative
+82,costco,2 months ago,Manjeet VIRK,Nice place for long term use and if want things in bulk.,0.05,0.95,0.0,-0.3804,Negative
+83,costco,2 months ago,Loretta Sellars,It was surprisingly not too bad the day after New Years. Lineups weren't long and got through quickly,0.05,0.95,0.0,-0.3804,Negative
+84,costco,3 months ago,Veronica Cowles,The employee's are always nice and helpful.,0.05,0.95,0.0,-0.3804,Negative
+85,costco,3 months ago,Melanie Orr,"Friendly staff, well stocked shelves and organized nicely.",0.05,0.95,0.0,-0.3804,Negative
+86,costco,3 months ago,John Barnes,Big box store.,0.05,0.95,0.0,-0.3804,Negative
+87,costco,3 months ago,Ryan Reynolds,All I wish is that somebody would answer the phone! I just want service from a human please!!!,0.05,0.95,0.0,-0.3804,Negative
+88,costco,3 months ago,Square Car Detailing,It was awesome,0.05,0.95,0.0,-0.3804,Negative
+89,costco,3 months ago,Marie Tyrcz,"Great staff, fun to see new products.",0.05,0.95,0.0,-0.3804,Negative
+90,costco,3 months ago,Jason George Photography,I used to love printing But I made in order in November and  It was to get to me by the sember 15th And it didn't arrive until the 24th and racked all of my Christmas gifts and a  Gift I had for this little girl who stood for the 1st time December 4th period and I am still waiting to hear back about what there going to do to right this wrong and it's now January 2nd period I've heard little response from my emails and phone calls with everybody telling me something different and actually contradicting what the person before me had said Gift I had for this little girl who stood for the 1st time December 4th period and I am still waiting to hear back about what there going to do to right this wrong and it's now January 2nd period I've heard little response from my emails and phone calls with everybody telling me something different and actually contradicting what the person before them had said.... I've alerted closer 2000 prints from them in just December alone and still waiting to hear back what they want me to do with the rest of my orders in future because with this kind of customer service I don't know if I ever want to order from Costco photo again...,0.05,0.95,0.0,-0.3804,Negative
+91,costco,3 months ago,Brandon Heckhaus,As good as it could be with COVID-19,0.05,0.95,0.0,-0.3804,Negative
+92,costco,3 months ago,Nicole De Sousa,Great place to shop but for god sakes SELL FRESH PRODUCE AND BAGELS.. theyâ€™re always about to expire!,0.05,0.95,0.0,-0.3804,Negative
+93,costco,3 months ago,Margie McCarthy,The seniors hours are really great! Much appreciated!!,0.05,0.95,0.0,-0.3804,Negative
+94,costco,3 months ago,Liavis Vilarino,Great quality and return policy. Something too crowded snd long lines,0.05,0.95,0.0,-0.3804,Negative
+95,costco,3 months ago,farshad hafezolkotob,Castco is incredible.,0.05,0.95,0.0,-0.3804,Negative
+96,costco,3 months ago,Arlene Scherger,Not too busy around 4 pm,0.05,0.95,0.0,-0.3804,Negative
+97,costco,3 months ago,Amanda Smith,Great prices. Clean. Large quantities - can be too much food sometimes. Some packaging is very excessive for whatâ€™s inside.,0.05,0.95,0.0,-0.3804,Negative
+98,costco,3 months ago,Candace Gouldsborough,Convenient bulk purchasing...not always a deal but easier than having to go back to a regular store multiple times.,0.05,0.95,0.0,-0.3804,Negative
+99,costco,3 months ago,Tamer ArslantaÅŸ,Good,0.05,0.95,0.0,-0.3804,Negative
+100,loblaw,a day ago,Alex Wersonig,Busy place. Wide isle . Covid lockdown anything not grocery can't access it,0.05,0.95,0.0,-0.3804,Negative
+101,loblaw,a day ago,sarah dunlop,produce is pretty good which is always my main concern with any grocery store. prices r fair. staff r friendly.,0.05,0.95,0.0,-0.3804,Negative
+102,loblaw,a day ago,Petra Perry,"Clean, spacious, helpful, polite, 9ts worth paying the extra few dollars to shop here.",0.05,0.95,0.0,-0.3804,Negative
+103,loblaw,4 days ago,Jenny,"We get curbside pick up currently and its very quick, easy and friendly.",0.05,0.95,0.0,-0.3804,Negative
+104,loblaw,6 days ago,Lana Kis,"We usually cannot afford to buy food from such an expensive store.  But today we came to it because there was a huge queue in the neighboring wallmart, where we usually buy food.  We were shocked that there were so many expired, spoiled food in such a luxury, expensive store.  Berry, dragon fruit, star fruit, they were all spoiled.  they were wrinkled and stained.  My kids asked for a coconut.  It was difficult to choose not rotten, most of the coconuts had mold.  I chose the best one, but when I opened it at home, it turned out that it was rotten.  Disgusting!  The managers of this store are not doing their job.  I have not seen such a shame in the most inexpensive Sshop.  Shame!!!  Never again !",0.05,0.95,0.0,-0.3804,Negative
+105,loblaw,a week ago,robert mansfield,Went here to pick up some food for meal prep. Store had everything that I was looking for. Only downside was at cash. The belt was not cleaned off after the previous person had paid and the cashier was reading some paperwork while I was waiting for them to scan my items. They seemed to be more interested in what they were reading than customer service.,0.05,0.95,0.0,-0.3804,Negative
+106,loblaw,2 weeks ago,Patel Utsav,"Very cool place, you can find anything you want for grocery.",0.05,0.95,0.0,-0.3804,Negative
+107,loblaw,2 weeks ago,Samantha Irani,Love this location especially because they have a pattiserie.,0.05,0.95,0.0,-0.3804,Negative
+108,loblaw,2 weeks ago,Brenda Edwards,"Excellent place to shop clean, friendly informative staff. Prices are good too.",0.05,0.95,0.0,-0.3804,Negative
+109,loblaw,2 weeks ago,Sindy Powell,"Always clean, food always fresh and well stocked. I have one closer to home but it doesn't come close to this one!",0.05,0.95,0.0,-0.3804,Negative
+110,loblaw,3 weeks ago,Kevin Murphy,"Awesome store, well worth the visit",0.05,0.95,0.0,-0.3804,Negative
+111,loblaw,3 weeks ago,Sabrina Chun,Always nice and clean! Staff are friendly and helpful.,0.05,0.95,0.0,-0.3804,Negative
+112,loblaw,a month ago,Corbin Duncan,"I don't think I've ever had a bad experience here. The staff, during covid, have been kind, patient and efficient.",0.05,0.95,0.0,-0.3804,Negative
+113,loblaw,a month ago,Jef Walton,Good food,0.05,0.95,0.0,-0.3804,Negative
+114,loblaw,a month ago,gayle robinson,"A huge store. Clean,  spacious,  every thing  you could want in here. Full floral, bakery, deli, butcher shop, seafood.
+However I found it way too large, too much walking.
+Like a smaller store.",0.05,0.95,0.0,-0.3804,Negative
+115,loblaw,a month ago,Alexander Faulds,"Rude staff, that is all I can say",0.05,0.95,0.0,-0.3804,Negative
+116,loblaw,a month ago,Sebastian Kowalski,Pretty quiet there today,0.05,0.95,0.0,-0.3804,Negative
+117,loblaw,a month ago,James Decoste,"Supervisor Angela is extremely rude and a loves to take pictures of customers, someone LOVES DRAMA",0.05,0.95,0.0,-0.3804,Negative
+118,loblaw,a month ago,Josh Cook,"Nicest grocery store in town. Prices are jacked compared to many other stores, but it is the only grocery store that actually inspires my cooking. Love shopping here.",0.05,0.95,0.0,-0.3804,Negative
+119,loblaw,a month ago,Olga Nelson,Good,0.05,0.95,0.0,-0.3804,Negative
+120,loblaw,a month ago,Steve O'Brien,Long line up to get in and the same to check out,0.05,0.95,0.0,-0.3804,Negative
+121,loblaw,a month ago,Teresa Christiaans,Clean and lots of choices,0.05,0.95,0.0,-0.3804,Negative
+122,loblaw,2 months ago,Sybil Waddington,"This is my favourite location. The produce is always most fresh, the folks at the deli are lovely. You pay a little more and receive the quality you'd expect and then some.",0.05,0.95,0.0,-0.3804,Negative
+123,loblaw,2 months ago,Shawn Fraser,"Groceries are overpriced, customer service is nonexistent and to check out and pay for your items the lines were the length of the store.",0.05,0.95,0.0,-0.3804,Negative
+124,loblaw,2 months ago,Shirley Morrison,I was looking for the  Knorr1klm.  soup base yellow can red lid. No store that I went to had that product.  I saw online that Loblaws had it.  When I went there to my disappointment the gentleman help me look for it and it was not in the store.  I give Loblaws credit for not giving up.  When I asked the manager about it she sent me to her assistant manager and there was one more place to look and he found it. I purchased the product I was looking for. Thank you Loblaws for not giving up. And a special thank you to Glen for being so good and trying to help me find the product.,0.05,0.95,0.0,-0.3804,Negative
+125,loblaw,2 months ago,Karim Ahmed,Very nice and easy going experience.,0.05,0.95,0.0,-0.3804,Negative
+126,loblaw,2 months ago,Angie Cornacchia,"Well organized ..staff was very helpful the produce man and the 2 girls on the deli dept as well ..thank you
+.",0.05,0.95,0.0,-0.3804,Negative
+127,loblaw,2 months ago,Bill Kelly,Best quality and service.,0.05,0.95,0.0,-0.3804,Negative
+128,loblaw,2 months ago,Dreamcatcher Music,"Nice store, some items not available but tgat is understandable",0.05,0.95,0.0,-0.3804,Negative
+129,loblaw,2 months ago,kenny hunter,To expensive but otherwise good,0.05,0.95,0.0,-0.3804,Negative
+130,loblaw,2 months ago,ChocolateMonkeh,"Usually come here for their bakery section, breads and antipasto. Its always clean and organized but on all occasions that I've been here I've encountered at least 1 really rude worker. -Today was my birthday and we picked up a plain vanilla cake, it was half frozen and for loblaws' reputation I wasn't expecting it to taste like a boxed cake, but it did. Could have probably gotten a better one for less at Walmart. Other than that I'd definitely keep coming back. I love their plant section as well.",0.05,0.95,0.0,-0.3804,Negative
+131,loblaw,2 months ago,Miranda Grundsten,"Tasty sandwiches, clean, lots of variety, but bought moldy brie cheese so products should be more carefully inspected.",0.05,0.95,0.0,-0.3804,Negative
+132,loblaw,2 months ago,tyler day,Clean and well organized.,0.05,0.95,0.0,-0.3804,Negative
+133,loblaw,2 months ago,Rich McCutcheon,i like the variety... lots of produce and meats.  sells beer too.  ðŸ˜,0.05,0.95,0.0,-0.3804,Negative
+134,loblaw,2 months ago,Douglas Bailey,Easy pick up,0.05,0.95,0.0,-0.3804,Negative
+135,loblaw,2 months ago,Elsa Gurton,Good experience. Called to find out if they had a certain product I needed. The manager double checked on the shelf. Went and got said item as well as groceries. The store was very clean and everyone was being cautious and following covid measures.,0.05,0.95,0.0,-0.3804,Negative
+136,loblaw,2 months ago,LIVIN A MATHEW,Great,0.05,0.95,0.0,-0.3804,Negative
+137,loblaw,3 months ago,allan robertson,Nice place,0.05,0.95,0.0,-0.3804,Negative
+138,loblaw,3 months ago,Melanie Orr,Very clean and organized,0.05,0.95,0.0,-0.3804,Negative
+139,loblaw,3 months ago,Cindy Smith,Great experience. Always clean and tidy. No line ups outside.,0.05,0.95,0.0,-0.3804,Negative
+140,loblaw,3 months ago,pierre levesque,"Store is always impeccably clean, and they have great covid cleaning practices in place. Typically a little more expensive than other grocery stores but you can find some good deals. Their hot and fresh section is fantastic and food tastes great.",0.05,0.95,0.0,-0.3804,Negative
+141,loblaw,3 months ago,Frederick Price,Had pre-cooked chicken when I needed it later at night.,0.05,0.95,0.0,-0.3804,Negative
+142,loblaw,3 months ago,Dhindsa Sohi,I got dufflet white & black chocolate cake. It's delicious ðŸ˜‹. Love it ðŸ’Ÿ,0.05,0.95,0.0,-0.3804,Negative
+143,loblaw,3 months ago,Shane Ricketts,Large selection and variety.,0.05,0.95,0.0,-0.3804,Negative
+144,loblaw,3 months ago,Colin Campbell,"Staff are pleasant , personable and professional. Even under theese trying times they keep up a good face and outlook , giving the clientele a happy comfortable setting , in hopes of making them happier during this awkward time.
+Well done the the customer service representatives hire by smart upper management , that care about the customers.",0.05,0.95,0.0,-0.3804,Negative
+145,loblaw,3 months ago,Stephen Wilkinson,Click and collect service was easy and accurate.,0.05,0.95,0.0,-0.3804,Negative
+146,loblaw,3 months ago,John Williams,Impeccably clean large grocery store with lots of variety to choose from for those special Christmas baking ideas,0.05,0.95,0.0,-0.3804,Negative
+147,loblaw,3 months ago,Erin Catt,Very clean store great deals on,0.05,0.95,0.0,-0.3804,Negative
+148,loblaw,3 months ago,Dave Belyk,The only problem I saw was there was no carts or baskets,0.05,0.95,0.0,-0.3804,Negative
+149,loblaw,3 months ago,Robert Ruttan,Not too busy early on the morning. Well stocked. Helpful staff. A bit pricier then some of the others but worth for the selection,0.05,0.95,0.0,-0.3804,Negative
+150,loblaw,3 months ago,Shantel,Very nice Staff and clean! ðŸ‘Œ,0.05,0.95,0.0,-0.3804,Negative
+151,loblaw,3 months ago,Randy Beavis,"Loblaws was busy but lines moved quickly. Sales items were in stock and I found more than I went in for. Cashier was friendly and funny. Remember,  we need all the humour we can get in these times.",0.05,0.95,0.0,-0.3804,Negative
+152,loblaw,4 months ago,Dana Leonard,This store has everything and the staff is excellent,0.05,0.95,0.0,-0.3804,Negative
+153,loblaw,4 months ago,cassandra wellington,"I bought two dozen chestnuts last week.  I usually slice chestnuts open and roast them in the oven, but about half of them were so hard I couldn't even slice them. The ones that I could cut slice turned out to be rotten on the inside or would not peel at all after roasting. I ended up being able to eat 3 chestnuts and the rest went into the green bin. What a disappointment, especially since they're a seasonal item that I really look forward to.",0.05,0.95,0.0,-0.3804,Negative
+154,loblaw,4 months ago,chris stix,Wayyyyyyyyy to expensive.,0.05,0.95,0.0,-0.3804,Negative
+155,loblaw,4 months ago,Mike Owen,"The prepared foods in the deli area are better than almost any fast food restaurant. Primarily the wings, fingers, scalloped taters, all really great quality. Great staff as well. Just nice clean tidy respectfull place to shop.unlike the big store next door that throws good food away they reduce food to enjoy today, instead of throwing it away. For a family budget it's a really great option to buy canadian.",0.05,0.95,0.0,-0.3804,Negative
+156,loblaw,4 months ago,Chris Simpson,"Great store, from pharmacy to food, get everything you need here! Including beer.",0.05,0.95,0.0,-0.3804,Negative
+157,loblaw,4 months ago,Pamela Morley,Love using click and connect. Service is great. I love the quality of products at loblaws including fresh produce.,0.05,0.95,0.0,-0.3804,Negative
+158,loblaw,4 months ago,carlo fusco,Clean and fresh,0.05,0.95,0.0,-0.3804,Negative
+159,loblaw,4 months ago,Tony De Gasperis,It was busy. It took 20 min to get to the cash register. The line up was all the way to the yogurt refrigerators and building up.,0.05,0.95,0.0,-0.3804,Negative
+160,loblaw,4 months ago,Jaskaran Singh,Such a big store still a huge line up at checkout. Took more than half hour to checkout really small number of items better install self checkout kiosks,0.05,0.95,0.0,-0.3804,Negative
+161,loblaw,4 months ago,R Catenaro,I spoke to a manager named Jennifer today who demonstrated complete apathy for a very unfortunate situation. Disappointed.,0.05,0.95,0.0,-0.3804,Negative
+162,loblaw,4 months ago,Samra Barun,Fresh fruit and vegetables also taste food also great service and the team helpful right there,0.05,0.95,0.0,-0.3804,Negative
+163,loblaw,4 months ago,Leah Stepanek,Clean and pleasant. Great selection. Good quality.,0.05,0.95,0.0,-0.3804,Negative
+164,loblaw,4 months ago,Matthew Lazzaro,Good hot plate deals. Love the sandwiches as well,0.05,0.95,0.0,-0.3804,Negative
+165,loblaw,4 months ago,johann isopp,The vegetable section is outragious! Filthy and picked over. The vegatables are days if not weeks old. The prices are criminal. They have done a good job merchandising for the upcoming holidays.,0.05,0.95,0.0,-0.3804,Negative
+166,loblaw,5 months ago,Donald Ryner,Got to love the selection and freshness!,0.05,0.95,0.0,-0.3804,Negative
+167,loblaw,5 months ago,Caleb Ward,Very safe in the covid time and the prices are fair as well,0.05,0.95,0.0,-0.3804,Negative
+168,loblaw,5 months ago,Christina Savoy,In and out in 10 the way I like it,0.05,0.95,0.0,-0.3804,Negative
+169,loblaw,5 months ago,lifeislove notcolour,decent place but needs to value their employees more ... ironic considering they own all the groceries shops and sell the same thing at different prices in their other shops ...strange place indeed ....,0.05,0.95,0.0,-0.3804,Negative
+170,loblaw,5 months ago,William Blackstock,line ups tend to be long at this location.,0.05,0.95,0.0,-0.3804,Negative
+171,loblaw,5 months ago,amie mim,"The safety protocols I must say have been the best thus far..in luding not only sanitize stations but also wash basins..and also noticed they keep traffic going one way..u can  only enter one door and only exit a different one door..
+Although to be honest I have found the most processing gouging there..
+Which in of it alone is wrong in every aspects of life during these tiring times",0.05,0.95,0.0,-0.3804,Negative
+172,loblaw,5 months ago,Rj King,Nice store. Little more expensive than others,0.05,0.95,0.0,-0.3804,Negative
+173,loblaw,5 months ago,Charly Tatchum Tamno,"Clean, organized, pleasant, wide range of choices!",0.05,0.95,0.0,-0.3804,Negative
+174,loblaw,5 months ago,Beverly Talon,Pet peeve... I hate when they do put prices to product on shelves,0.05,0.95,0.0,-0.3804,Negative
+175,loblaw,5 months ago,Michele Smith,Found everything. Picking up a few things on Thanksgiving Sunday. Was in and out in on time. Thank you.,0.05,0.95,0.0,-0.3804,Negative
+176,loblaw,6 months ago,Orlagh Turtle,"Excellent service,  courteous, friendly staff",0.05,0.95,0.0,-0.3804,Negative
+177,loblaw,6 months ago,ali kim,Great,0.05,0.95,0.0,-0.3804,Negative
+178,loblaw,6 months ago,Caroline Tutakiewicz,Such a clean and well stocked store. Staff is super friendly and its a great experience overall.,0.05,0.95,0.0,-0.3804,Negative
+179,loblaw,6 months ago,Dee Sans,"A clean grocery store with lots of options to choose from. They have a decent selection of foods for different cultures :) . It can be a bit pricey but that can be anywhere. Another added highlight is that they have a Magnotta winery boutique where you can pick up a nice wine (and for a really nice price point!) So if you're planning to host a dinner or don't want to go empty-handed to someone's party, this is your one-stop shop.",0.05,0.95,0.0,-0.3804,Negative
+180,loblaw,6 months ago,Soren Vaerum,Great selection. They do not have a good covid plan in terms of check out. Rather than utilizing multiple line ups at the cashier's with social distancing they enforce a single line. This often causes long wait times.,0.05,0.95,0.0,-0.3804,Negative
+181,loblaw,6 months ago,Charlotte Brethour,"Loblaws , is always safe because they clean between customers. No many of the other grocery stores do. Thank you for making my shopping experience less stressful.",0.05,0.95,0.0,-0.3804,Negative
+182,loblaw,6 months ago,Naomi ROSS,Great choices,0.05,0.95,0.0,-0.3804,Negative
+183,loblaw,6 months ago,Karen LeBlanc,Waited 35 minutes for PC Express at 8:00pm. No one else in the pick up area.,0.05,0.95,0.0,-0.3804,Negative
+184,loblaw,6 months ago,Mike Clarke,"Great produce. And easy to find other goods.
+What I couldn't find Glen knew where it was!   Phil had cleaned carts ready to go!",0.05,0.95,0.0,-0.3804,Negative
+185,loblaw,6 months ago,Maura Moschella,Very clean store and amazing variety of all types of food,0.05,0.95,0.0,-0.3804,Negative
+186,loblaw,6 months ago,gianni colella,Good and clean,0.05,0.95,0.0,-0.3804,Negative
+187,loblaw,6 months ago,Ramandeep Kaur,Amazing tastes!! A quick yumm snack and finger licking cake quality!!,0.05,0.95,0.0,-0.3804,Negative
+188,loblaw,6 months ago,Tyra Wadman,"BEWARE THE KARENS!!!
+
+Out of every Loblaws I've been to, this one is (by far) the best in presentation and quality. A bit pricier than other neighboring grocers, but for this location, I'd make the sacrifice for things that aren't brand name, like meat/deli.
+
+They like to reduce waste- meaning anything they don't sell in time gets marked down (typically around 50% off) and whatever doesn't sell from that gets made into compost/slop or made as food donations (depending what it is of course).
+
+The meat is fresh, and out of all the places I've tried seafood, theirs seems to be the freshest. The bakery/Patisserie has a delicious variety to choose from and there's even a little cafe at the end of their sushi/hot deli counter.
+
+The beef I have is with the owner (whom I've never met in my time working there). He decided to cut everyone's hours. I thought I could have a future there, but just as I thought I could start making a living, he hired on two new bakery associates and tossed us one 4-hour shift a week. I understand students need work, but what about those who aren't living off of student loans?  I had to pinch pennies and eat small portions just to make sure I had enough to last me the whole month. I couldn't even afford the bus pass to continue working there.
+
+And I'll never let that go. )8<",0.05,0.95,0.0,-0.3804,Negative
+189,loblaw,6 months ago,Una,I find loblaws way too expensive especially for veggies,0.05,0.95,0.0,-0.3804,Negative
+190,loblaw,6 months ago,safia akhtar,We can find different varieties of seafood,0.05,0.95,0.0,-0.3804,Negative
+191,loblaw,6 months ago,PAUL SMITH,"Too many people in the store, line ups a mile long.  I left without a purchase.",0.05,0.95,0.0,-0.3804,Negative
+192,loblaw,6 months ago,Tara Alexander,"A WIDE selection to suit every customer. Was nearly blown away by the extensive produce display and the clever layout. The cheese fridges are impressive to say the least as is the patisserie.
+Advise to not shop if hungry. No need to ever head south with the options at this location.",0.05,0.95,0.0,-0.3804,Negative
+193,loblaw,6 months ago,Ð”Ð¼Ð¸Ñ‚Ñ€Ð¸Ð¹,Everything is fine but on selfcheckout they can mount a screens between stations. Lines move very slow.,0.05,0.95,0.0,-0.3804,Negative
+194,loblaw,7 months ago,Ryan Chin,"Good food if you don't want to cook, at the hot meals to go",0.05,0.95,0.0,-0.3804,Negative
+195,loblaw,7 months ago,John Skinner,"Line-ups to pay for groceries were brutal.  If you have to shop there, I would recommend not to buy anything that has to stay frozen like ice cream...lol",0.05,0.95,0.0,-0.3804,Negative
+196,loblaw,7 months ago,James Lacey,Cleanbut expensive,0.05,0.95,0.0,-0.3804,Negative
+197,loblaw,7 months ago,Robert MacDonald,"The staff here are great but the guys who work in the butcher shop are amazing. Always willing to take time to discuss tips for cooking the perfect meal.
+Not too mention the bone in chops are the best in town!!",0.05,0.95,0.0,-0.3804,Negative
+198,loblaw,7 months ago,Luke Fex,Clean store with a good selection of groceries,0.05,0.95,0.0,-0.3804,Negative
+199,loblaw,7 months ago,Ashley Hicks,Pricey but worth it!,0.05,0.95,0.0,-0.3804,Negative
+200,loblaw,7 months ago,Sean Harrington,"Expensive but it has everything. Opens ar 7am and and your able to buy beer at that time.
+Ps. I work midnight shifts.",0.05,0.95,0.0,-0.3804,Negative
+201,loblaw,7 months ago,mark gabriel,"It is among the high end grocery shops in Bayfield St. But when the items go on sale, its a steal! They also have a fancy food bar but reasonable price.",0.05,0.95,0.0,-0.3804,Negative
+202,loblaw,7 months ago,Cecilia Blondin,Great Place to Shop,0.05,0.95,0.0,-0.3804,Negative
+203,loblaw,7 months ago,Ryan Shuman,Great selection. Clean store. Huge checkout lines cost a star.,0.05,0.95,0.0,-0.3804,Negative
+204,loblaw,7 months ago,andrew robertson,Awesome storeðŸ˜Ž,0.05,0.95,0.0,-0.3804,Negative
+205,noFrills,20 hours ago,Darlene Wilkes,.store is always clean and inviting.,0.05,0.95,0.0,-0.3804,Negative
+206,noFrills,2 days ago,Dina Brooks,"Best prices, clean store!",0.05,0.95,0.0,-0.3804,Negative
+207,noFrills,5 days ago,Andrea Licznerska,While their prices are generally lower than other grocery stores I have found it far too crowded during Covid with little to no social distancing. It is hit or miss at the self serve check out with staff cleaning between use. Not my first choice for grocery stores as I would rather drive out of the way for peace of mind!,0.05,0.95,0.0,-0.3804,Negative
+208,noFrills,a week ago,judy bemrose,Great store very clean staff are Awsome and the Boss is always out and about making sure things are running smooth,0.05,0.95,0.0,-0.3804,Negative
+209,noFrills,a week ago,Tori Sampson,"The sign says you have to wear a mask , but half the staff don't.",0.05,0.95,0.0,-0.3804,Negative
+210,noFrills,a week ago,matt3071 matt3071,3:40pm to 4:16pm,0.05,0.95,0.0,-0.3804,Negative
+211,noFrills,a week ago,Robin Russell,Was at no frills on march 27 2021 the two ladies working at self scan made it a point to come and stand right by us with her hands on her hips watching us scan. It made us feel like we were going to steal something. The one lady says your celery didnt scan and i said ya it did and i showed her. I thought it was very rude.i realize they are there to help you but it was a very uncomfortable feeling. Ive been to ther stores where you self scan and have never had that happen,0.05,0.95,0.0,-0.3804,Negative
+212,noFrills,a week ago,Mike S.,Great store! Well-stocked. No lineup at the checkout. My only request would be to please carry â€œFontaine lean ground vealâ€ and â€œPC blue menu turkey baconâ€.,0.05,0.95,0.0,-0.3804,Negative
+213,noFrills,2 weeks ago,Samantha Ivy,Not following any covid 19 protocols.,0.05,0.95,0.0,-0.3804,Negative
+214,noFrills,2 weeks ago,Tia Reid,"The store itself is clean, the prices are good and the staff is generally awesome.
+
+1) My cheif compliant is that some of said staff are not wearing masks. This is ridiculous and dangerous. We are in the middle of a pandemic. I'm aware some claim 'mask exemptions' and I know they need to work but please find alternate options so they do not need to be near the public.
+
+2) Some of the masks the employees wear are just plain ineffective. They are either below the nose or ones that do not work. Why isn't their a policy?
+
+3) Your store says 'no masks, no service'. So why isn't that true? Please let your employees enforce the mask policy.
+
+I just got my nana back from treatment. I don't want to lose her because we had to get groceries and she got infected.",0.05,0.95,0.0,-0.3804,Negative
+215,noFrills,3 weeks ago,Michael Silvey,"Great service, friendly staff",0.05,0.95,0.0,-0.3804,Negative
+216,noFrills,3 weeks ago,ski hill,"Well-stocked, fair prices",0.05,0.95,0.0,-0.3804,Negative
+217,noFrills,4 weeks ago,Tim Kanciruk,There's no place like this place anyplace!!,0.05,0.95,0.0,-0.3804,Negative
+218,noFrills,4 weeks ago,Kurt Richardson,Great grocery store,0.05,0.95,0.0,-0.3804,Negative
+219,noFrills,a month ago,Bernie Gillespie,"This is a very good store.
+Clean, organized and friendly staff.",0.05,0.95,0.0,-0.3804,Negative
+220,noFrills,a month ago,alan morrison,"OK, sometimes disorganized",0.05,0.95,0.0,-0.3804,Negative
+221,noFrills,a month ago,Pola Talani,great customer service,0.05,0.95,0.0,-0.3804,Negative
+222,noFrills,a month ago,Brenda Scheepers,"Excellent variety, quality and prices.",0.05,0.95,0.0,-0.3804,Negative
+223,noFrills,a month ago,edward ferrier,Lots of every thing.,0.05,0.95,0.0,-0.3804,Negative
+224,noFrills,a month ago,Ana V calhoun,"Friendly,  I know some ppl who work there but, mask wise I fukn hate.  Honestly I don't think no one should be wearing masks it's not healthy for ur lungs cuz ur lungs can't get oxygen from masks.  We can shop without masks.",0.05,0.95,0.0,-0.3804,Negative
+225,noFrills,a month ago,Milton Perez,The prices are very reasonable. And you can collect points . The employees and very friendly. Today I bought a pork pic Nick for only $7.80 About 7 to 8 lb and I'm making pull pork enuff to feed 6 to 8 people.,0.05,0.95,0.0,-0.3804,Negative
+226,noFrills,a month ago,Julie Croydon,"Lots of parking and the employees are really helpful if you can't find something. The fresh fruit and vegetable aisle I'll always looks nice and for the most part the quality is good and there is lots to choose from. I rarely shop anywhere else other than no frills and except for one rude checkout person my experience has been very good, especially during covid.",0.05,0.95,0.0,-0.3804,Negative
+227,noFrills,a month ago,Christina Minici,"I will NEVER shop in this location again. Aside from the constant sub standard quality for produce (buy something one day and rotten the next) I witnessed staff and customers gang up on a husband and wife because they didn't feel their mask exemption was legitimate. Staff did nothing to de-escalate the situation. If anything they involved and encouraged other customers to join in on the confrontation. The cashier who serving me then tried to engage me into the debacle and once I shut him down, the level of customer service dramatically changed after being deemed ""one of them"" ..his words. Should  be noted I was masked but did not agree with or join in on the bullying, name calling and swearing. Deeply disappointed.",0.05,0.95,0.0,-0.3804,Negative
+228,noFrills,a month ago,Richard Fernandez,"Best prices,  great quality!",0.05,0.95,0.0,-0.3804,Negative
+229,noFrills,a month ago,Marcus Levis,Staff here I find are great and friendly. Some times hard to find some products. Not a fan of their meat products.,0.05,0.95,0.0,-0.3804,Negative
+230,noFrills,a month ago,Jonathan Rogler,I guess I missed the small print... â€œCanâ€™t be beatâ€ *except by several stores we conveniently donâ€™t price match*,0.05,0.95,0.0,-0.3804,Negative
+231,noFrills,a month ago,Carlos Ortega,"Nice, food store, some items chepeer than other stores",0.05,0.95,0.0,-0.3804,Negative
+232,noFrills,a month ago,Joanne Brake,"Always great produce, usually carry all sale items, small aisles",0.05,0.95,0.0,-0.3804,Negative
+233,noFrills,a month ago,Pedro Villafana,"(Translated by Google) You get at a good price what is necessary and essential ðŸ˜‰
+
+(Original)
+Se consigue a buen precio lo necesario y esencial ðŸ˜‰",0.05,0.95,0.0,-0.3804,Negative
+234,noFrills,a month ago,Exotic Peachy,"(Translated by Google) JOE MOM!
+
+(Original)
+JOE MAMA!",0.05,0.95,0.0,-0.3804,Negative
+235,noFrills,a month ago,Igor Gladkikh,Good grocery store...,0.05,0.95,0.0,-0.3804,Negative
+236,noFrills,a month ago,Colin Evans,How much is the lettuce?,0.05,0.95,0.0,-0.3804,Negative
+237,noFrills,a month ago,Mrs Jay,Friendly clean and helpful,0.05,0.95,0.0,-0.3804,Negative
+238,noFrills,a month ago,Roger Lowe,"Have been to this No Frills often but less since COVID. Self serve terminals are too close to each other even though every other one is blocked, the space between the 2 rows is not conducive to taking a cart through and or keeping a safe distance.
+Saw a customer in the store without a mask, not cool especially indoors.
+Seemed like too many people in the store when I was there.
+You must take a shopping cart. I know they are trying to keep a safe distance but it doesn't help I find.",0.05,0.95,0.0,-0.3804,Negative
+239,noFrills,2 months ago,Dana Leonard,"The staff is friendly, store is always clean and the produce is good too. I have always liked this store.",0.05,0.95,0.0,-0.3804,Negative
+240,noFrills,2 months ago,Kristi Elming,Too crowded and some very pushy customers!,0.05,0.95,0.0,-0.3804,Negative
+241,noFrills,2 months ago,Brennan Hunt,overall always finding what i need. Stocking is alittle vague sometimes but overall good place.,0.05,0.95,0.0,-0.3804,Negative
+242,noFrills,2 months ago,Eric Evangelista,Cleaned and organized.. great place to shop,0.05,0.95,0.0,-0.3804,Negative
+243,noFrills,2 months ago,Ryan Ward,I like it!,0.05,0.95,0.0,-0.3804,Negative
+244,noFrills,2 months ago,Colin Campbell,"Fully stocked , Employees extreemly helpfull and very professional.",0.05,0.95,0.0,-0.3804,Negative
+245,noFrills,2 months ago,Adam Nymann,"I found the store was a bit disorganized in terms of directional arrows, and it made it challenging to get around and still be social distanced. However, the selection at the store was great, and the staff here are good.",0.05,0.95,0.0,-0.3804,Negative
+246,noFrills,2 months ago,Michael Ladouceur,"The better of the two no frills options in Barrie. Much bigger selection and fresher products it seems. Be wary of weekends. Because of location and time if week, you almost guaranteed to come across quite a few unsavory customers and large crowds (with little regard to social distancing); yet that's not the stores fault, just a warning.",0.05,0.95,0.0,-0.3804,Negative
+247,noFrills,2 months ago,Marie Sternberg,"A giant thank you to all the staff here for making shopping during COVID a friendly experience. Love the greetings at the door by the cart wipers especially and the friendly cashier that always seems to be there on Tuesday mornings. In fact, all the staff is very helpful. Many thanks, all of you!",0.05,0.95,0.0,-0.3804,Negative
+248,noFrills,2 months ago,Melissa Smith,Very friendly and efficient cashiers. Prices were great and place was fairly clean for a grocery store.,0.05,0.95,0.0,-0.3804,Negative
+249,noFrills,2 months ago,K Possible,"Love this store, carts are free to use. No need to bring a quarter.",0.05,0.95,0.0,-0.3804,Negative
+250,noFrills,2 months ago,Josh Fawcett,Busy place at the moment but  thats because of great prices,0.05,0.95,0.0,-0.3804,Negative
+251,noFrills,2 months ago,Don Gruchy,Great  place  to shop.,0.05,0.95,0.0,-0.3804,Negative
+252,noFrills,3 months ago,Bertrand Zarate,Best,0.05,0.95,0.0,-0.3804,Negative
+253,noFrills,3 months ago,Steve MacLeod,No Frills on price and a great a great staff.,0.05,0.95,0.0,-0.3804,Negative
+254,noFrills,3 months ago,Judy Ellis,Excellent quality of fruit and vegetables,0.05,0.95,0.0,-0.3804,Negative
+255,noFrills,3 months ago,Gary Sutherland,Joe's seems to have upped it's game during these covid times,0.05,0.95,0.0,-0.3804,Negative
+256,noFrills,3 months ago,Nicole Harrington,"Love this store, most employees are great! Usually stocked well, clean and fast to check out. 15 years of being a customer, and happy. 98/100 visits have been amazing!",0.05,0.95,0.0,-0.3804,Negative
+257,noFrills,3 months ago,Jeff Kwan,Great miss the flyers its easier to do the shopping for grama when  it comes in the weekly paper,0.05,0.95,0.0,-0.3804,Negative
+258,noFrills,3 months ago,Aquario100,It's a no frills,0.05,0.95,0.0,-0.3804,Negative
+259,noFrills,3 months ago,Kerry Weeks,Busy,0.05,0.95,0.0,-0.3804,Negative
+260,noFrills,3 months ago,Susan Yu,"The staff has generally been pretty nice and helpful, but the management is not. In fact recently, I've had the management tell me that I was not allowed to purchase beyond a certain limit of an item,  and that he just told ""my husband"", another random Asian man who I not only do not know,  but didn't even see in the store. Furthermore there was no sign of such a limit,  otherwise I would have happily abided.  Perhaps I should be surprised that No Frills allows this type of behaviour in their stores,  but I'm definitely not in this day and age.",0.05,0.95,0.0,-0.3804,Negative
+261,noFrills,3 months ago,Lisa Jordan,Very friendly lots of fresh produce,0.05,0.95,0.0,-0.3804,Negative
+262,noFrills,3 months ago,William Cox,I didn't find it as good as Walmart as the selection is diminished and the prices are higher but it'll do in a pinch.,0.05,0.95,0.0,-0.3804,Negative
+263,noFrills,3 months ago,Andria Diane,"My friend is embarrassed to write this, but I would want anyone to face the same experience! one of the cashiers at this location at 11am this morning. (December 21st) was not only making fun of a customer, but bullying them about their payment method!! Not only is this against every code of conduct at these work locations, but it's intolerable how a cashier is allowed to speak with you at this location.",0.05,0.95,0.0,-0.3804,Negative
+264,noFrills,3 months ago,Erin Catt,Great prices on food,0.05,0.95,0.0,-0.3804,Negative
+265,noFrills,3 months ago,Earl Toole,It is a nice store to shop at we appreciate all the efforts being made to keep us shoppers safe may the LORD BLESS ALL YOUR LABOURS,0.05,0.95,0.0,-0.3804,Negative
+266,noFrills,3 months ago,R S,Great place for groceries,0.05,0.95,0.0,-0.3804,Negative
+267,noFrills,3 months ago,Rodrigo R,Few people there.,0.05,0.95,0.0,-0.3804,Negative
+268,noFrills,3 months ago,Bob Zuruncle,Good prices on most items. Friendly staff.,0.05,0.95,0.0,-0.3804,Negative
+269,noFrills,3 months ago,Dallis Favret,"There is an employee who has been without a mask for at least my visits in the past two weeks. I understand the employee has a medical exemption to avoid wearing a face covering.
+
+Although the management does not have an option in the employees exemption, they do have options when it comes to making this employee public facing, intermingling, and in contact with the public.
+
+This demonstrates:
+1. The management doesn't take this pandemic seriously.
+2. The management doesn't care about the health and safety of their customers or the community.
+
+I have been a regular weekly shopper of Joe's No Frills for the past 13 years, that stops today..",0.05,0.95,0.0,-0.3804,Negative
+270,noFrills,4 months ago,A S,Always fresh produce. Good location.,0.05,0.95,0.0,-0.3804,Negative
+271,noFrills,4 months ago,Cathy Atkinson,"Aisles are too crowded.   People are not socially distancing in the store.
+No frills is very careful about safety measures.",0.05,0.95,0.0,-0.3804,Negative
+272,noFrills,4 months ago,Brenda Anderson,Service was great lots of shelf stockers.,0.05,0.95,0.0,-0.3804,Negative
+273,noFrills,4 months ago,Chad Connolly,Awesome prices and selection,0.05,0.95,0.0,-0.3804,Negative
+274,noFrills,4 months ago,Lee Takahashi,Good location,0.05,0.95,0.0,-0.3804,Negative
+275,noFrills,5 months ago,Deborah MacDuffie,"First time there, the prices were good. I definitely go back. Staff were helpful and friendly",0.05,0.95,0.0,-0.3804,Negative
+276,noFrills,5 months ago,Lou Choi,Good selection of product.,0.05,0.95,0.0,-0.3804,Negative
+277,noFrills,5 months ago,Anto Thomas,"I like this store. They strictly follow Covid safety precautions. Safe place to purchase.
+Lots of employees at the counters so that could save time. Thank you guys",0.05,0.95,0.0,-0.3804,Negative
+278,noFrills,5 months ago,Marina U,"Old price tags are still on sometimes, need to verify your purchase.",0.05,0.95,0.0,-0.3804,Negative
+279,noFrills,5 months ago,glenn boland,"Joe joe joe
+Love your store
+But why are the self checkout not being wiped down after each customer use. Was at your store today October 30.
+Was not impressed",0.05,0.95,0.0,-0.3804,Negative
+280,noFrills,5 months ago,Mario Bronstein,Love your store.,0.05,0.95,0.0,-0.3804,Negative
+281,noFrills,5 months ago,Andrew Schell,"As busy as it gets at this high volume location, it moves people through quick. It's a No Frills; good prices without the frilly overhead.",0.05,0.95,0.0,-0.3804,Negative
+282,noFrills,5 months ago,William BERTRAND,Great Service Friendly Staff,0.05,0.95,0.0,-0.3804,Negative
+283,noFrills,5 months ago,Monica Russell,"The staff are very helpful here. I'm short, so I frequently have to ask someone to reach something for me.  Always do and always very pleasant about it",0.05,0.95,0.0,-0.3804,Negative
+284,noFrills,5 months ago,J Lalonde,"Too busy, no social distancing at the checkouts",0.05,0.95,0.0,-0.3804,Negative
+285,noFrills,5 months ago,Luke Fex,Good prices on groceries but there is a limited selection,0.05,0.95,0.0,-0.3804,Negative
+286,noFrills,5 months ago,Diana Ercia Tesolin,The staff here is unbelievably helpful.  From the cashier to the produce guy Jacob. Great job Thank you. Makes my shopping experience great.,0.05,0.95,0.0,-0.3804,Negative
+287,noFrills,5 months ago,Anita Robinson,Close to home and cheaper than others,0.05,0.95,0.0,-0.3804,Negative
+288,noFrills,5 months ago,john Vanderburgh,"Nice store, great helpfully staff.
+Great value and selection.",0.05,0.95,0.0,-0.3804,Negative
+289,noFrills,5 months ago,Google User,Has food,0.05,0.95,0.0,-0.3804,Negative
+290,noFrills,5 months ago,Brittany J,Was super happy they had butterball turkey's still in store before Thanksgiving! Tried 3 different grocery stores before finding them at No Frills.,0.05,0.95,0.0,-0.3804,Negative
+291,noFrills,6 months ago,pierre levesque,Go early to avoid the store traffic.  Good prices and selection of products,0.05,0.95,0.0,-0.3804,Negative
+292,noFrills,6 months ago,Yvonne Dixon-Williams,"Friendly staff, fresh produce, great meat selection!",0.05,0.95,0.0,-0.3804,Negative
+293,noFrills,6 months ago,Diane Walker-Hoondert,"First time there this morning, and for produce only. I was very impressed with the extensive assortment of ultra fresh vegetables and fruit at very competitive prices!",0.05,0.95,0.0,-0.3804,Negative
+294,noFrills,6 months ago,Julien Caron,Good prices and great staff,0.05,0.95,0.0,-0.3804,Negative
+295,noFrills,6 months ago,Claudio Costantini,"Clean store, people helpf",0.05,0.95,0.0,-0.3804,Negative
+296,noFrills,6 months ago,Sam Pre,Always stocked and good deals,0.05,0.95,0.0,-0.3804,Negative
+297,noFrills,6 months ago,Stacey Curry,No organic produce options sadly.Have to drive to the further away Chris's no frill to get my organic meat and veggies.,0.05,0.95,0.0,-0.3804,Negative
+298,noFrills,7 months ago,Dave Henderson,Great selection,0.05,0.95,0.0,-0.3804,Negative
+299,noFrills,7 months ago,Emily Schrader,"It was quite crowded, and a little hard to social distance. Other than that, great experience. The employees were very helpful and friendly, and the selection was immaculate.",0.05,0.95,0.0,-0.3804,Negative
+300,noFrills,7 months ago,eric rodrigues,Great place to shop for stuff!,0.05,0.95,0.0,-0.3804,Negative
+301,noFrills,7 months ago,Rebecca Monkman,Went into buy groceries. They had product sign for one price that scanned for a different price and wouldn't honor the signed pricing. Just a disappointing way to end our grocery shopping.,0.05,0.95,0.0,-0.3804,Negative
+302,noFrills,7 months ago,Alexander Faulds,"Went there today to get tomatoes that was in the flyer for the week and is also in next week's fly so you would think they have them.... No some notice that they do not have the tomatoes from the flyer due to deliver issues so why put it in the next week's flyer , asked the manager and he said may not get them for next week either.... Makes me think of Zellers and how that place never had anything in here flyers either were are they now!!!",0.05,0.95,0.0,-0.3804,Negative
+303,noFrills,7 months ago,Alliston Rental,Great sale items,0.05,0.95,0.0,-0.3804,Negative
+304,noFrills,7 months ago,Liz Duguay,Always great deals to be had. Managers Specials.,0.05,0.95,0.0,-0.3804,Negative
+305,noFrills,7 months ago,Ivor Needle,Fruit is no good and shelf empty of sale items and not very clean I guess that's how they can lower their price,0.05,0.95,0.0,-0.3804,Negative
+306,noFrills,7 months ago,Joey Rivney,Great help and nice and clean,0.05,0.95,0.0,-0.3804,Negative
+307,noFrills,7 months ago,elizabeth leclair,watch the posted prices vs ads. if the store has the wrong price in the system you get the in item free,0.05,0.95,0.0,-0.3804,Negative
+308,noFrills,7 months ago,Cecilia Blondin,The best place to shop prices are great,0.05,0.95,0.0,-0.3804,Negative
+309,noFrills,7 months ago,Thati Furtado,"The only one, No Frills, that I visited and the prices are different from the flyer.",0.05,0.95,0.0,-0.3804,Negative
+310,noFrills,7 months ago,all about the feline Giles,"Clean store, nice people, well stocked shelves",0.05,0.95,0.0,-0.3804,Negative
+311,walmart,2 hours ago,Gabby,Customer service is decent .... upset that I canâ€™t purchase some BABY ESSENTIALS since one or two aisles we blocked off due to the new COVID restrictions. Like seriously ? I seriously feel bad for the cashiers trying to figure out whatâ€™s essential or not.,0.05,0.95,0.0,-0.3804,Negative
+312,walmart,13 hours ago,Fire Ethence,Packed to the brim. Not following covid protocols AT ALL!!! The international students employees and customers REEEEKED!!!!!!! Could smell them all through out the store! Walmart talk to them about personal hygiene PLEASE!!!!,0.05,0.95,0.0,-0.3804,Negative
+313,walmart,a day ago,Laurel Munshaw,"I don't want to give you any stars right now! someone explain how gardening is essential but shampoo, tampons, diapers, wipes...why are those isles closed off? this covid stuff stopped making sense along time ago.",0.05,0.95,0.0,-0.3804,Negative
+314,walmart,a week ago,Michael Burnie,"It's a Walmart, so it is what it is. Problem is, this is a pretty bad Walmart as Walmarts go, primarily because shelves are often barren in the grocery and pharmaceutical sections. I've talked about this particular location to my friends that work in management positions at other Walmarts, and they tell me this location is a joke. I send them pictures like this and they can't believe it.
+
+I really like the curbside pickup when they're on time, which is seldom. I don't believe the staff are to blame. I think it's poor management compounding with COVID.
+
+I hate myself for going here but it's convenient and they do actually have good prices on some stuff.",0.05,0.95,0.0,-0.3804,Negative
+315,walmart,2 weeks ago,Ian McLean,"For over 3 days they have been promising to fill my prescription for anti seizure medication. Everyday it's we will have it filled by tomorrow. When asking a pharmacist if they are acually fill it or not, I was hung up on. Very unrespective employees and management. Management is included because, I called back to file a complaint. Management placed me on hold for 20 mins. Then the call was picked up and hung up. They don't care as long as they get your money. Shoppers drug mart got the same prescription filled in less then 30 mins. Wasn't fun not having my meds for a day. So I won't be going into a Walmart for anything anymore.",0.05,0.95,0.0,-0.3804,Negative
+316,walmart,2 weeks ago,Battlecat,"Ah Wally mart, the worst store around for service and price.  Go with Amazon if you have a choice.",0.05,0.95,0.0,-0.3804,Negative
+317,walmart,a month ago,Brittany J,Always very busy with customers being far to close to one another. There is no proper control / cleanliness over self-checkout with the amount of staff on hand. Customers are rushing upto the machines before staff can even sanitize them between use.,0.05,0.95,0.0,-0.3804,Negative
+318,walmart,a month ago,cole gaming and trophy guides 7,Amazing walmart by far the best one I've seen,0.05,0.95,0.0,-0.3804,Negative
+319,walmart,a month ago,Heather Gosse,",i injured my finger at Walmart on Bayfield St and reported it to them and  the store had no PRODACALL for this, my finger swelled up and immediately bruised . They brushed me off and said there was nothing else to be done. I have photos of my finger, which is still bruised and my nail will fall off soo. THANKS FOR CARING WALMART",0.05,0.95,0.0,-0.3804,Negative
+320,walmart,a month ago,Anthony Lancaster,"I had an interview with this Walmart on Thursday February 25th 2021. As I waited to be interviewed a number of employees walked by not wearing their masks properly, and I saw two managers without one. When it came time to do the interview it turned out to be a group interview with 6 other individuals. When we were brought into the back and placed in the training room, which had a small table were we could not social distance. When I asked the manager how could this be loud I was told it was a none issue yet as of February 14th they had an employee test positive for Covid-19. Walmart is placing your life at risk so they can make money.",0.05,0.95,0.0,-0.3804,Negative
+321,walmart,a month ago,Carol F,"My experiences shopping in this store have always been enjoyable. Shelves are always well stocked and the employees are very courteous and pleasant.  However, my experience with an employee in the produce section today was not so good.  I dropped something on the floor and I reached out to the closest employee for their assistance.  Not a word was spoken from the employee, just a disgusted look. Needless to say I felt terrible, but this person made me feel even worse.",0.05,0.95,0.0,-0.3804,Negative
+322,walmart,a month ago,Tim D,"Update: Loss of price match and pandemic issues have forced me and others to shop where items are more affordable. Was always worth trip to Walmart. Not anymore, sadly.
+
+This Walmart has been so supportive and helpful to me and others during this sudden and huge crisis. The staff continue to work hard and with positive attitudes. I'm greeted with smiles and ""good morning's"" as always has been. It means a lot to me and I'm sure others. Sam Walton would be very proud of Walmart Barrie North. Thank you all..ðŸ˜‡
+
+Massive transformation!! This Walmart rocks!! Great staff, lots of room to navigate my scooter throughout. Fresh product and well stocked. Cashiers smile and do thier best to help, very important!! Finally.... price match is so important and allows me to eat healthier foods with limited fixed income. Thanks to all..ðŸ™ðŸ‘",0.05,0.95,0.0,-0.3804,Negative
+323,walmart,2 months ago,Mike Mitro,Place is dirty. Staff seem really lackadaisical. I'd avoid this place,0.05,0.95,0.0,-0.3804,Negative
+324,walmart,2 months ago,Jasdeep Singh Khokhar,nice place,0.05,0.95,0.0,-0.3804,Negative
+325,walmart,2 months ago,Patty Ching,"This store is not following provincial guidelines regarding covid 19 . Shoppers are packed in here all afternoon. They are not counting customers.
+Lately this store reeks like body odor. It is really disgusting.",0.05,0.95,0.0,-0.3804,Negative
+326,walmart,3 months ago,Patrick Wong,"January 9 2021 9:30 AM a maskless couple with a child was shopping at  Walmart. A lady could confronted them. A scene in sued with the maskless lady screaming. A code yellow was called, and management came running. The end result is nothing was done because of the maskless couple sight medical reason. I was never was a fan of Walmart but they put my 80-year-old mother at risk by doing nothing.",0.05,0.95,0.0,-0.3804,Negative
+327,walmart,3 months ago,Stephanie Speer,Very nice customer service on the phone in crafts. She was quick friendly and very informative,0.05,0.95,0.0,-0.3804,Negative
+328,walmart,3 months ago,Anthony Medina,"Good staff & clean environment. If you consciously decided to come here, chances are they'll have what you need. Their international food section has also grown quite a bit over the years.",0.05,0.95,0.0,-0.3804,Negative
+329,walmart,3 months ago,Rachel Hebert,"So disappointed. I forgot my mask at home, asked if they had one to give to me. They refused and told me to leave, then kicked my grandmother in the shins. Never going back here again",0.05,0.95,0.0,-0.3804,Negative
+330,walmart,4 months ago,kadeem skf,Very displeased with the pick up service. I waited in my car for over an hour. The excuse was your under staffed. This issue needs to be fixed.,0.05,0.95,0.0,-0.3804,Negative
+331,walmart,4 months ago,Elena Conita,"We are so happy with the friendly staff, i enjoy coming to shop.",0.05,0.95,0.0,-0.3804,Negative
+332,walmart,4 months ago,ChocolateMonkeh,"I always go to this Walmart since the one on the south side is a nightmare. The staff are usually friendly and you can  always find a ton of them around when you have a question.
+The shelves are empty way too often though, and they are not enforcing covid measures at all these days. It doesn't seem like they are controlling the number of people in the store since I'm always squeezing through crowded aisles, and they don't enforce the arrows. I see customers without masks once in a  while and no one says anything! I actually forgot my mask once and walked in  passed by 3 employees who didn't say a word! Once I realized, I flew out of there lol",0.05,0.95,0.0,-0.3804,Negative
+333,walmart,4 months ago,Betsy Attkisson,Walmart always has everything u need .wait a minute,0.05,0.95,0.0,-0.3804,Negative
+334,walmart,5 months ago,lifeislove notcolour,great place to pick up inexpensive stuff when you're in a rush!! so glad they didnt fllip out during the pandemic and change their store hours like the rest of the world ...,0.05,0.95,0.0,-0.3804,Negative
+335,walmart,5 months ago,Mark Cutter,The shelves are always clean. And the phone barely gets answered. Its frustrating but I live in the area and I like the prices so I'll always come back. I just wish that when they advertise something is for sale they order enough stock.,0.05,0.95,0.0,-0.3804,Negative
+336,walmart,5 months ago,Ethan Hu,Don't park in a RV here won't tell you if you are going to be towed or not. They said that because the smart center owns the parking lot. Even though other Walmart's are owned by smart center and will tell you if you can park Barrie Walmart won't give an answer.,0.05,0.95,0.0,-0.3804,Negative
+337,walmart,5 months ago,Brennon Oster,"Never ever restocked, unorganized, bad Walmart in general",0.05,0.95,0.0,-0.3804,Negative
+338,walmart,5 months ago,Jennifer Von G.,"The cashier at night (around 9pm) was unfriendly and felt uncomfortable to aporoach.... Almost as though she wasn't even speaking to a lady... Nice standards
+
+Im a lesbian and I don't even want to speak to the girls here that work at night.
+
+Oh, and FYI they really set off my overly-religious-peoples' radar here at night btw. My instincts tell me of a christian persuasion.  With a street culture on the side :)
+
+people wear sweatpants around here :s  Cars often have headlights out around here?  Weird..",0.05,0.95,0.0,-0.3804,Negative
+339,walmart,6 months ago,R S,"Just like last time this will be the start of the outbreak in our region again this time......not limiting people in the stores and being proactive is going to get us shutdown again and I hope this time that this place goes down.
+No one and I repeat no one respects their one direction signs and staff and patrons don't care.   I wish places like this would take covid 2020 more seriously.   Mark my words it's only a matter of time",0.05,0.95,0.0,-0.3804,Negative
+340,walmart,6 months ago,Julia Lollipop,"Employee came within inches of me, coming the wrong way down the aisle with NO MASK ON..  TWICE ..  she wore a face shield .. which protects her, maybe, but not me!  So Rude!",0.05,0.95,0.0,-0.3804,Negative
+341,walmart,6 months ago,William Hickey,It was nice.,0.05,0.95,0.0,-0.3804,Negative
+342,walmart,6 months ago,safia akhtar,I can buy many things under one roof.,0.05,0.95,0.0,-0.3804,Negative
+343,walmart,6 months ago,Rachel R,"Called this store to ask a question regarding a product prior to going. Was on hold for 10 minutes and then the employee came back on to say ""sorry why were you calling?"", then had to wait another 10 minutes, until I just decided to hang up.
+
+Location is just like any other Walmart.",0.05,0.95,0.0,-0.3804,Negative
+344,walmart,6 months ago,Matt Blackburn,It was like an uncontrolled day care!,0.05,0.95,0.0,-0.3804,Negative
+345,walmart,6 months ago,Mubasher Rehman,Thank you wallmart staff just love  â¤  u guys . Lost my phone yesterday and today u guys return it back . Really appreciated.  One again thank you very much,0.05,0.95,0.0,-0.3804,Negative
+346,walmart,6 months ago,Chris Simpson,"It's a large store, well set out",0.05,0.95,0.0,-0.3804,Negative
+347,walmart,6 months ago,Terron A,Walmart is Walmart.,0.05,0.95,0.0,-0.3804,Negative
+348,walmart,6 months ago,Rhidian Bevan,Overcrowded,0.05,0.95,0.0,-0.3804,Negative
+349,walmart,6 months ago,Clive Didierserre,Very practical good selections. Covers ALL basic needs. And easy to navigate.,0.05,0.95,0.0,-0.3804,Negative
+350,walmart,6 months ago,Andrea Alden,"While finding the things I needed had me sign zagging everywhere, I am very impressed with their handling of the large crowds and COVID.",0.05,0.95,0.0,-0.3804,Negative
+351,walmart,6 months ago,AkHil ShaJi,Need to add some more products like soccer boot and alll,0.05,0.95,0.0,-0.3804,Negative
+352,walmart,7 months ago,Chris McGee Jr,It was good,0.05,0.95,0.0,-0.3804,Negative
+353,walmart,7 months ago,WHALE CAT 935,watched a crackhead sundown in the parking lot,0.05,0.95,0.0,-0.3804,Negative
+354,walmart,7 months ago,Penguin King jay,don't buy produce from here goes bad very fast.. other then that great price for most items,0.05,0.95,0.0,-0.3804,Negative
+355,walmart,7 months ago,Stephan Buechler,"This is the only one I go to , always pretty busy , staff is friendly but the store organization is bizarre stuff is all over the place nothing makes sense for placement",0.05,0.95,0.0,-0.3804,Negative
+356,walmart,7 months ago,Brendan Kanis,Very dirty.,0.05,0.95,0.0,-0.3804,Negative
+357,walmart,7 months ago,Marina Marr,Great superstore. Friendly staff.,0.05,0.95,0.0,-0.3804,Negative
+358,walmart,7 months ago,Manjeet singh,Good experience,0.05,0.95,0.0,-0.3804,Negative
+359,walmart,7 months ago,Nishanth Shaji,Customer friendly employees,0.05,0.95,0.0,-0.3804,Negative
+360,walmart,7 months ago,Omolola Ige,My first time at this Walmart and they have lot of nice things,0.05,0.95,0.0,-0.3804,Negative
+361,walmart,7 months ago,Doug Walsh,Didn't have what were looking for,0.05,0.95,0.0,-0.3804,Negative
+362,walmart,7 months ago,Hafizur Rahman,Convenient,0.05,0.95,0.0,-0.3804,Negative
+363,walmart,7 months ago,Seph Twenty One,Its was well kept. No hassles in and out quickly,0.05,0.95,0.0,-0.3804,Negative
+364,walmart,7 months ago,Luckyone117,The store itself seems pretty well organized during this time it's just alot of people aren't heeding the directional traffic instore,0.05,0.95,0.0,-0.3804,Negative
+365,walmart,7 months ago,alan morrison,Reliabie,0.05,0.95,0.0,-0.3804,Negative
+366,walmart,7 months ago,John Blais,I have to wear a mask but yet they let people bring dirty reusable bag in the store.,0.05,0.95,0.0,-0.3804,Negative
+367,walmart,7 months ago,Greg Finucan,Clean and lots of choices but only half cashier's working ando ster checkout line,0.05,0.95,0.0,-0.3804,Negative
+368,walmart,7 months ago,cameron richardson,Walmart is walmart,0.05,0.95,0.0,-0.3804,Negative
+369,walmart,7 months ago,itzumi,It's great and the staff are very helpful,0.05,0.95,0.0,-0.3804,Negative
+370,walmart,8 months ago,Edward EWK J,Great reliable store,0.05,0.95,0.0,-0.3804,Negative
+371,walmart,8 months ago,Kathalene Legge,Can get usually everything all at once,0.05,0.95,0.0,-0.3804,Negative
+372,walmart,8 months ago,Dean S.,One of the cleaner walmart stores. (Barrie South),0.05,0.95,0.0,-0.3804,Negative
+373,walmart,8 months ago,Meaghan Xx,Smells like garbage/human waste all around & inside this building. They need better waste management protocols,0.05,0.95,0.0,-0.3804,Negative
+374,walmart,8 months ago,Gary Sutherland,"The employee that served me in entertainment was good especially when he had just been dealing with a customer before me who wasn't getting the point that he was trying to convey; his message was clear even I understood where he was coming from so he was very knowledgeable. He was extremely polite considering the customer was getting heated.
+He gathered himself well then gave me the service I was looking for.",0.05,0.95,0.0,-0.3804,Negative
+375,walmart,8 months ago,Alex Wersonig,Standard Walmart products excellent restocking ongoing while there,0.05,0.95,0.0,-0.3804,Negative
+376,walmart,8 months ago,Katrina Weitzel,Seriously give your staff some deodorant....it's disgusting how I can still smell them even with social distancing. Hygiene is important....,0.05,0.95,0.0,-0.3804,Negative
+377,walmart,8 months ago,Jigna Pandya,Excellent  service,0.05,0.95,0.0,-0.3804,Negative
+378,walmart,8 months ago,Marcus Sisconetto,"A bit disorganized, but still found all we were looking for.",0.05,0.95,0.0,-0.3804,Negative
+379,walmart,8 months ago,Adam Keen,You have the worst customer service,0.05,0.95,0.0,-0.3804,Negative
+380,walmart,8 months ago,paul kreppenhofer,Pnb F t4,0.05,0.95,0.0,-0.3804,Negative
+381,walmart,8 months ago,Trish Steele,There is no tap or no touch payment option at the Walmart Supercentre in the south end of Barrie.  And the cashier said that the debit machine touch pad IS NOT CLEANED AFTER EACH USE.,0.05,0.95,0.0,-0.3804,Negative
+382,walmart,8 months ago,NavjotPreet Singh,Very nice staff,0.05,0.95,0.0,-0.3804,Negative
+383,walmart,8 months ago,James Lacey,Cool air conditioner.  But clothes cost too Much as does the food.  And all the stuff on sale had the mark downs ripped off so they were normal price,0.05,0.95,0.0,-0.3804,Negative
+384,walmart,8 months ago,June Hrycak,"Ok, good selection,  friendly staff.",0.05,0.95,0.0,-0.3804,Negative
+385,walmart,8 months ago,Illest Traitor,I just went though and was denied beer because I forgot my ID yet the 17 year old in front of me was sold alcohol without showing ID he confirmed his age with me afterwards.,0.05,0.95,0.0,-0.3804,Negative
+386,walmart,8 months ago,Liliana Gutierrez,Good,0.05,0.95,0.0,-0.3804,Negative
+387,walmart,8 months ago,Warren Rowe,"Price not as advertised, checkot slow technology not working, store clerks blocking way",0.05,0.95,0.0,-0.3804,Negative
+388,walmart,8 months ago,Ben H,"It's a good place to shop, it has everything you need and more! We get most of our vegies from here and they are always a high quality, same with the meat. If you go at the right time you can find something on special which is always nice. Always lots of parking and always a friendly face at the door.",0.05,0.95,0.0,-0.3804,Negative
+389,walmart,8 months ago,Joshua Werner,Greasy,0.05,0.95,0.0,-0.3804,Negative
+390,walmart,8 months ago,maria del carmen montes de oca,"I like this place, you find what you are looking for and at a low price.",0.05,0.95,0.0,-0.3804,Negative
+391,walmart,8 months ago,Nidhi Shah,Its awesome,0.05,0.95,0.0,-0.3804,Negative
+392,walmart,9 months ago,4TL42,"It is not my personal favorite superstore, but it is a solid second.",0.05,0.95,0.0,-0.3804,Negative
+393,walmart,9 months ago,Kevin Latimer,Shop there all the time,0.05,0.95,0.0,-0.3804,Negative
+394,walmart,9 months ago,Lorne Harmer,"Don't ever buy anything online from that store, well over a month and still don't have a refund for something I didn't pick up even though they said it was delivered, even calling me to let me know they made a mistake saying it was there mistake.",0.05,0.95,0.0,-0.3804,Negative
+395,walmart,9 months ago,James McEachern,Its walmart. You know what your getting,0.05,0.95,0.0,-0.3804,Negative
+396,walmart,9 months ago,Jody Percy,It's just Walmart,0.05,0.95,0.0,-0.3804,Negative
+397,walmart,9 months ago,Chantal Ayotte,No line up to enter store,0.05,0.95,0.0,-0.3804,Negative
+398,walmart,9 months ago,William Cox,"What's not to like in, out, got what I need - all that I need, ( save for clothes!!! ), in record time, not bad on the pocket book either.",0.05,0.95,0.0,-0.3804,Negative
+399,walmart,9 months ago,Stefan Shelenko,Well stocked. Clean.,0.05,0.95,0.0,-0.3804,Negative
+400,walmart,9 months ago,Tammy Martorino,I finally got everything I needed without my hubby rushing me and I forgot what I needed. This time I was with my mom,0.05,0.95,0.0,-0.3804,Negative
+401,walmart,9 months ago,Mike Amato,Walmart nothing special,0.05,0.95,0.0,-0.3804,Negative
+402,walmart,9 months ago,Jeff Weeks,Still struggling a bit to keep the shelves stocked...,0.05,0.95,0.0,-0.3804,Negative
+403,walmart,9 months ago,bob rob,"Walmart always has everything u need .wait a minute , do they ? Saddly i heard they r clossing all their oil and lube centres .i wasa frequent customer in this area .it was nice to buyva cheap set of winter tires there and have them put them on for u , so... Does this mean walmart will stop selling tires ? Also i was looking for some kind of set up to clean the bottom of my pond .kinda the same as cleaning one of those round outground pools walmart sells .but pretty much nothing there unless u buy a whole pool i guess .anyways for frequently shopped items walmart has it all still but i will miss the auto center for sure .now where to find pond cleaning supplies ?",0.05,0.95,0.0,-0.3804,Negative
+404,walmart,9 months ago,Juanita Crewe,"Quick, no lineups. Safe distancing in place. But stock very depleted in certain departments",0.05,0.95,0.0,-0.3804,Negative
+405,walmart,9 months ago,Daniel Odrzygoski,All shelfs are empty and and customer service sucks,0.05,0.95,0.0,-0.3804,Negative
+406,walmart,9 months ago,Sheri Tobin,"Fresh selection of produce and baked goods, friendly helpful staff.",0.05,0.95,0.0,-0.3804,Negative
+407,walmart,9 months ago,Amal Sadan,ðŸ¥šðŸ³,0.05,0.95,0.0,-0.3804,Negative
+408,walmart,9 months ago,Tina Brown,The everyday store,0.05,0.95,0.0,-0.3804,Negative
+409,walmart,9 months ago,kyra moreau,very clean. well stocked.,0.05,0.95,0.0,-0.3804,Negative
+410,walmart,10 months ago,Gregory McKinnon,Quick in and out and got all i needed.  No lineup on the way in made for a happy guy here.,0.05,0.95,0.0,-0.3804,Negative
+411,walmart,10 months ago,Evelyn Edwards,It was perfect found everything i needed thanksðŸ˜€,0.05,0.95,0.0,-0.3804,Negative
+412,walmart,10 months ago,Mark Brophy,"What can I tell you that you don't already know, it's Walmart. The food prices are competitive when compared to other local stores. It is our go to place and we'll continue to do so.",0.05,0.95,0.0,-0.3804,Negative
+413,zehrs,2 days ago,Sandra Mantello,"I never shopped at Zehrs before , I'm from brampton, I was very impressed with Zehrs.I like your store.",0.05,0.95,0.0,-0.3804,Negative
+414,zehrs,a week ago,Raja K,"Found what I wanted, easily.",0.05,0.95,0.0,-0.3804,Negative
+415,zehrs,2 weeks ago,David Watson,"I personally think this location is one of the best I've ever been to. Pre-pandemic, they had hand sanitizer near the cart pickup spot. Since the pandemic, they've done a wonderful job or regulating the flow of shoppers, creating queues or lines for checkout where a store employee can direct which lane to use, and providing a washing and sanitization station near the entrance.
+
+We've also used this location for the PC Express program a lot, especially since the pandemic. I have to say, the staff on the PC Express team at this Zehrs are phenomenal! If you forget to add an item or two to your order and it's too late to edit your order, they will do their best to accommodate you, sometimes even checking while you wait for pickup (if you're amenable to it) if they have stock. They are always extremely friendly and polite, and really make you feel - whether on the phone, or in-person - appreciated as a customer. I always enjoy my interactions with this team.
+
+Overall, I give this Zehrs location a five for the way the store is run, all the staff who work there, and the measures they have and continue to take to make their customers feel valued.",0.05,0.95,0.0,-0.3804,Negative
+416,zehrs,2 weeks ago,Lisa Kalanj,"This store is by far the best and has some of the most amazing employees!!  Thank you so much for the help with my groceries today at 3pm at the self checkout, I am so thankful and appreciative for the community feel at this store, thank you, thank you, thank you:)",0.05,0.95,0.0,-0.3804,Negative
+417,zehrs,3 weeks ago,Steve Bell,Lots of parking. Picked up some fresh seafood.,0.05,0.95,0.0,-0.3804,Negative
+418,zehrs,a month ago,Rudy Persad,Great place to shop,0.05,0.95,0.0,-0.3804,Negative
+419,zehrs,a month ago,Lindsay Patterson,"I absolutely love this grocery store. They follow protocols, they have such a wide variety of selections of different foods. They have the fresh butcher and seafood, bakery and deli. They have a huge selection of cheeses. There prices are decent and generally have great sales.
+
+They have a bathroom located in the top floor and a starburst in one corner for the thirsty shopper and if your hungry a hot deli on the other side.
+
+Product is easily located and has a general fluidity that works for both customers/consumer/business.
+
+My daughter wants to start shopping here because she says it has everything and way more of a selection than where she lives in Alliston and she thinks it's just amazing.",0.05,0.95,0.0,-0.3804,Negative
+420,zehrs,a month ago,Lindsay Anger,Love the layout and the staff are nice,0.05,0.95,0.0,-0.3804,Negative
+421,zehrs,a month ago,NightHawk,Nice store lines where well managed.  Good quick in and out,0.05,0.95,0.0,-0.3804,Negative
+422,zehrs,a month ago,Chris Howell,Staff is very friendly and the store is clean.,0.05,0.95,0.0,-0.3804,Negative
+423,zehrs,a month ago,Patti Bunston,Went in to buy a homeless man some food.  Self checkout very well organized and very disinfected.,0.05,0.95,0.0,-0.3804,Negative
+424,zehrs,2 months ago,Lauren Aubin,too crowded in every section i went in and people were far too close to eachother to the point where i felt unsafe. the number of people should be better controlled/regulated there. just saying...,0.05,0.95,0.0,-0.3804,Negative
+425,zehrs,2 months ago,Markus Weisshaar,Well laid out for social distancing and such. Clean and well stocked.,0.05,0.95,0.0,-0.3804,Negative
+426,zehrs,2 months ago,Disha Patel,"This place feels unsafe during this pandemic situation as i visited there yesterday and saw they weren't sanitizing their carts they were just pilling them , bringing them from parking lot and putting them in that's it . No sanitizing. ... Really bad ..",0.05,0.95,0.0,-0.3804,Negative
+427,zehrs,2 months ago,Leza Carfagna,Awesome stuff,0.05,0.95,0.0,-0.3804,Negative
+428,zehrs,2 months ago,V Kompp,I only use pc express during these times and it is always such a great experience.,0.05,0.95,0.0,-0.3804,Negative
+429,zehrs,2 months ago,Jesse Tunney,Fast service clean and we'll stocked.,0.05,0.95,0.0,-0.3804,Negative
+430,zehrs,2 months ago,Paul Hardwick,Many staff members (mainly younger individuals) are compitant and well mannered. Several senior staff members at this location would struggle with a Walmart greeter job.,0.05,0.95,0.0,-0.3804,Negative
+431,zehrs,2 months ago,Al Parker,Pretty quiet first thing Saturday morning. Great pickup service!,0.05,0.95,0.0,-0.3804,Negative
+432,zehrs,2 months ago,mtv india,All at one place,0.05,0.95,0.0,-0.3804,Negative
+433,zehrs,3 months ago,Igor Gladkikh,Good place ðŸ˜‰,0.05,0.95,0.0,-0.3804,Negative
+434,zehrs,3 months ago,Rob Gajski,"Great store. Always clean. Employees make sure everyone is keeping their distance.
+Produce and meat are great.",0.05,0.95,0.0,-0.3804,Negative
+435,zehrs,3 months ago,kayode oyewale,Good place,0.05,0.95,0.0,-0.3804,Negative
+436,zehrs,3 months ago,Sheila Driscoll,Love their specials; Joe fresh products. Consistently good quality food at competitive prices.,0.05,0.95,0.0,-0.3804,Negative
+437,zehrs,3 months ago,Brooke Hoskins,Only grocery store I've been going since pandemic. The staff are helpful an I love the fresh produce thats available seasonally â™¡,0.05,0.95,0.0,-0.3804,Negative
+438,zehrs,3 months ago,Alexander Faulds,"The staff in the hot food area are great , keep up the good work",0.05,0.95,0.0,-0.3804,Negative
+439,zehrs,3 months ago,Karam Deol,Excellent,0.05,0.95,0.0,-0.3804,Negative
+440,zehrs,3 months ago,Liavis Vilarino,"Quality of products are great, but a little bit more expensive groserie shop compared to competitors.",0.05,0.95,0.0,-0.3804,Negative
+441,zehrs,4 months ago,Penny Rebuk,"I do like going there ,good experience everytime.",0.05,0.95,0.0,-0.3804,Negative
+442,zehrs,4 months ago,Mike Pierce,"The grocery store is well organized and very clean, If you are looking for a safe and securing feeling while grocery shopping during covi you will be happy here. Be mindful of others and follow the arrows",0.05,0.95,0.0,-0.3804,Negative
+443,zehrs,4 months ago,Maryam Piralmani,"I went  there  last week to order a cake for my son birthday and the  lady at the bakery  was super nice and attentive,  I wish I knew her name, and over all I like Zehrs, they are good.i like the atmosphere.",0.05,0.95,0.0,-0.3804,Negative
+444,zehrs,4 months ago,Randy Tallon,Very grocery and has become our go to place since moving to Barrie South end.,0.05,0.95,0.0,-0.3804,Negative
+445,zehrs,4 months ago,Gord MacCollum,Zehr's is a favorite place to shop for groceries always have what I am looking.,0.05,0.95,0.0,-0.3804,Negative
+446,zehrs,4 months ago,Todd Barranger,Always have plenty - but fruit and veg are costly,0.05,0.95,0.0,-0.3804,Negative
+447,zehrs,4 months ago,R Kirkman,My favorite store to shop,0.05,0.95,0.0,-0.3804,Negative
+448,zehrs,4 months ago,Lil Anglin,Wonderful as always.,0.05,0.95,0.0,-0.3804,Negative
+449,zehrs,4 months ago,Paula Ballantyne,This is my go to store and has been for many years. Since mask policy came into effect in stores I have seen Zehrs allow too many people shopping without a mask. Why is this allowed? Other grocery stores have zero tolerance. Wear a mask or shop somewhere else. I expect the same from Zehrs. Please protect your customers.,0.05,0.95,0.0,-0.3804,Negative
+450,zehrs,4 months ago,Gregory Hanson,Store on big bay point rd. Did not have adequate  inventory  of sale item salmon on display. When inquired about item was told would have to wait for staff to come back to cover dept.  Large store for only 1 employee in a dept.,0.05,0.95,0.0,-0.3804,Negative
+451,zehrs,4 months ago,Lee Takahashi,Clean and good location!,0.05,0.95,0.0,-0.3804,Negative
+452,zehrs,4 months ago,DaÃ«mon,High prices but fresh. Staff could be nicer imo...,0.05,0.95,0.0,-0.3804,Negative
+453,zehrs,4 months ago,glenn tolkacz,They have good savings on food.,0.05,0.95,0.0,-0.3804,Negative
+454,zehrs,5 months ago,Tiia Perkins,A bit on the expensive side...,0.05,0.95,0.0,-0.3804,Negative
+455,zehrs,5 months ago,rob trybuch,"Great selection, great covid controls, my favorite place to grocery shop in Barrie!",0.05,0.95,0.0,-0.3804,Negative
+456,zehrs,5 months ago,Phil V,Ok place to shop,0.05,0.95,0.0,-0.3804,Negative
+457,zehrs,5 months ago,Beverly Talon,Prices are needed on shelves...,0.05,0.95,0.0,-0.3804,Negative
+458,zehrs,5 months ago,Craig Ivory,It's better to buy your booze here than throw it was at a unionized gov't monopoly.,0.05,0.95,0.0,-0.3804,Negative
+459,zehrs,5 months ago,Kari Smith,Always very friendly cashiers! Still get a little confused what section I need to line up in due to covid.,0.05,0.95,0.0,-0.3804,Negative
+460,zehrs,6 months ago,Alyson Morrison,"There is a good variety, out of paper towels and they need more cashiers on a Friday before a long weekend.",0.05,0.95,0.0,-0.3804,Negative
+461,zehrs,6 months ago,Melanie Orr,Well stocked and friendly staff,0.05,0.95,0.0,-0.3804,Negative
+462,zehrs,6 months ago,Jason Rodgers,Click n collect save time don't forget to tip the workers,0.05,0.95,0.0,-0.3804,Negative
+463,zehrs,6 months ago,Guy Pare,"Its clean, friendly staff . Coffee is great. Snacks & sandwiches are better than the large chain coffee shops",0.05,0.95,0.0,-0.3804,Negative
+464,zehrs,6 months ago,shelley sellick,Great service,0.05,0.95,0.0,-0.3804,Negative
+465,zehrs,6 months ago,Stacey Hogan,"Had the worst customer service at the  check out. If you are being served by Tracey, make sure she's in a good head space. She is a good mood changer and not for the better.",0.05,0.95,0.0,-0.3804,Negative
+466,zehrs,6 months ago,Michelle Boston,clean and well maintained as far as COVID protocols go. Staff are really friendly and I seldom find things out of stock that I really need.,0.05,0.95,0.0,-0.3804,Negative
+467,zehrs,6 months ago,CEU MELO,It's an expensive store I don't often go there I must admit I don't have a budget for that kind of pricing so yeah once in a while they have a sale on something and I'll come in and buy it but that's about it,0.05,0.95,0.0,-0.3804,Negative
+468,zehrs,6 months ago,Toni Walker,"I love, love their crispy chicken tenders! The selection is big and everything looks fresh. Even the store associates look like they enjoy their jobs.",0.05,0.95,0.0,-0.3804,Negative
+469,zehrs,6 months ago,Richard Harasewich,"Beautiful stores, great service...some prices a bit high",0.05,0.95,0.0,-0.3804,Negative
+470,zehrs,6 months ago,Brandon Gonyea,Good place to buy pizza swirls and donuts.,0.05,0.95,0.0,-0.3804,Negative
+471,zehrs,6 months ago,personalwellness services,"Zehras, great place to shop for grocery, always fresh produce we bought steak from Australia that was affordable and tender.",0.05,0.95,0.0,-0.3804,Negative
+472,zehrs,6 months ago,Larry Miller,You realy.dont want to know!!!@,0.05,0.95,0.0,-0.3804,Negative
+473,zehrs,7 months ago,Kim Caldwell,"Many times I've vowed to leave a review here after disappointing experience at this store - finally doing it! Multiple times I've found items ringing through at cashier NOT at the advertised sale price. I wondered if this was a tactic in the summer knowing seasonal residents aren't as likely to check their receipts? When I point the errors out, cashiers simply re-ring it through at the correct price but without even an apology. This has happened at several visits over the past couple of years. I've also been consistently disappointed throughout the pandemic with employees' behaviour - waiting until forced to to wear masks, and not respecting distance. Very different approach towards customers than I've seen at other stores - even the Zehrs on Bryne is more diligent and obliging.",0.05,0.95,0.0,-0.3804,Negative
+474,zehrs,7 months ago,Marquis Black,Great gorcery store,0.05,0.95,0.0,-0.3804,Negative
+475,zehrs,7 months ago,Verna Washington,They have a great variety of items in this store. Prices are a bit high though.,0.05,0.95,0.0,-0.3804,Negative
+476,zehrs,7 months ago,chris rombis,"Beat the deals in Barrie.
+Zehrs is my go to when I visit family.
+Prepared salads are great value and out of this world delish!!!!
+KALE GOATS CHEESE , and PERFECT GREEK.
+both at $12.99 inc. 3 pouch dressings
+I recommend the SWEET ONION and boost with Cider Vinegar spray on and enjoy.
+Chef Chris Rombis",0.05,0.95,0.0,-0.3804,Negative
+477,zehrs,7 months ago,Trix Verge,"Clean, good selection.",0.05,0.95,0.0,-0.3804,Negative
+478,zehrs,7 months ago,John Wayne,Helpful employees quick service well as quick as it could be,0.05,0.95,0.0,-0.3804,Negative
+479,zehrs,7 months ago,Matt Nicholson,Good selection and good prices,0.05,0.95,0.0,-0.3804,Negative
+480,zehrs,7 months ago,Valerie Lawrence,Clean and well stocked. They do not disinfectant carts anymore that I could see.,0.05,0.95,0.0,-0.3804,Negative
+481,zehrs,7 months ago,K Verbakel,Great location,0.05,0.95,0.0,-0.3804,Negative
+482,zehrs,7 months ago,Anne Trimm,"lots of products, no lineups, follow arrows",0.05,0.95,0.0,-0.3804,Negative
+483,zehrs,7 months ago,Lisa Marie Robertson,Great produce and meats. Well stocked and clean,0.05,0.95,0.0,-0.3804,Negative
+484,zehrs,7 months ago,Tracy Parker,Clean but VERY with the self check lanes.  VERY SLOW.,0.05,0.95,0.0,-0.3804,Negative
+485,zehrs,7 months ago,Frank Csikos,Fast and friendly service,0.05,0.95,0.0,-0.3804,Negative
+486,zehrs,8 months ago,Catherine Stokes,It was very expensive and they were not enforcing the safety protocols within the store. People were not social distancing and the staff was watching and not saying anything. It was not a good place to safely shop.,0.05,0.95,0.0,-0.3804,Negative
+487,zehrs,8 months ago,Mike McKenzie,"Merchandising has way gone downhill.  Prices missing from many products.  Some shelves empty on special items.  And that bell just has to go!
+
+Increasing from 2 stars to 4.  Merchandising has improved with the new prIce signs and they have done a great job during the pandemic which is very much appreciated.",0.05,0.95,0.0,-0.3804,Negative
+488,zehrs,8 months ago,Kathryn Wilking,"Zehrs is so reliable! Well stocked, fresh fish and meat, huge pharmacy, organic section and (bonus) having a liquor isle, no need to wait in huge lines at the LCBO.
+And flowers! Everything under one roof! P.s. they also gift bonus airmiles regularly = free food! Thank you!",0.05,0.95,0.0,-0.3804,Negative
+489,zehrs,8 months ago,Judy Flear,Shop there all the time. Prices are very reasonable. The people are very friendly and helpful.,0.05,0.95,0.0,-0.3804,Negative
+490,zehrs,8 months ago,Elizabeth Wells,"I Really Love Zehrs! The Stores are Clean, Organized, Has Not Only Good Food but even Clothing and So much More. The Staff is Friendly & Helpful. It has a Pharmacy, too! Check it Out, if you haven't, Yet.
+I bet that,.. You'll Love it too!",0.05,0.95,0.0,-0.3804,Negative
+491,zehrs,8 months ago,Ewa Krasicka,Always good stuff.Fresh!,0.05,0.95,0.0,-0.3804,Negative
+492,zehrs,8 months ago,Andrew Duffett,Very pricey as always,0.05,0.95,0.0,-0.3804,Negative
+493,zehrs,8 months ago,Rafael Chacon,It's ok,0.05,0.95,0.0,-0.3804,Negative
+494,zehrs,8 months ago,Naturefoxx & mommysme B,Packed. Well over 50 people in line ups alone. No one is distancing no one that works there cares about others safety or their workers saftey,0.05,0.95,0.0,-0.3804,Negative
+495,zehrs,8 months ago,Steve K,Groceries are pricier than other stores,0.05,0.95,0.0,-0.3804,Negative
+496,zehrs,8 months ago,Dee Saumure,"Great selection, prices are on par with a larger retail chain (not a discount retailer). Wide isles but not a cluttered store. They have a good point system that gives you cash back on groceries! Friendly staff and a location that is close to home. They have a health food section, pharmacy, Joe Fresh clothing, a florist, a small butcher area (separate but attached to the meat department), and an alcohol section (wine and ciders plus limited selection of beer). Overall a well rounded store.",0.05,0.95,0.0,-0.3804,Negative
+497,zehrs,8 months ago,Jaydeep Patel,Awesome place for grocery shopping,0.05,0.95,0.0,-0.3804,Negative
+498,zehrs,9 months ago,Dianne Duguay,Great selection but very pricey,0.05,0.95,0.0,-0.3804,Negative
+499,zehrs,9 months ago,Behrouz Kashani,"High quality fresh fruits , so clean , great customer service",0.05,0.95,0.0,-0.3804,Negative
+500,zehrs,9 months ago,Pavel Blits,Clean and friendly...,0.05,0.95,0.0,-0.3804,Negative
+501,zehrs,9 months ago,Jackie Baechler,To pricey for me,0.05,0.95,0.0,-0.3804,Negative
+502,zehrs,9 months ago,Gerald Masney,It was ok,0.05,0.95,0.0,-0.3804,Negative
+503,zehrs,9 months ago,Shaun,It isxadequate. Selection always leans toward PC/No name products.,0.05,0.95,0.0,-0.3804,Negative
+504,zehrs,9 months ago,Rina T,Worse service from staff pouring rain nothing to cover myself and have to walk in the middle of the street to enter from other door. They donâ€™t care if you have problems walking and nothing to protect from weather elements and walking where cars drive just because one way entrance and exit for the whole covid. They need to learn to help protect the custom not make them worse. The staff also has not a clue where anything is.,0.05,0.95,0.0,-0.3804,Negative
+505,zehrs,9 months ago,Reid Couture,"Clean, over priced, every item you want they have though.",0.05,0.95,0.0,-0.3804,Negative
+506,zehrs,9 months ago,Phil Smith,"Though some of the cash staff are great, this store seems to have the worst fruit and vegetable section I've seen in Barrie.   The store is in dire need of an uplift.",0.05,0.95,0.0,-0.3804,Negative
+507,zehrs,9 months ago,Paul McIntyre,"For the most part I like this store except for the older ladies that are cashiers. Most of them have a bad attitude and are downright rude. The younger cashiers are polite and well mannered and the staff throughout the store are fantastic but once you go to cash out and you get one of those older ladies who donâ€™t smile and look miserable, unhappy and make underhanded rude comments and theyâ€™re careful so they donâ€™t â€œseemâ€ rude when they are. If they arenâ€™t happy at their job they should look for another job. Worst zehrs for most miserable older ladies cashiers.",0.05,0.95,0.0,-0.3804,Negative
+508,zehrs,9 months ago,Sheri Tobin,Fresh food and friendly staff,0.05,0.95,0.0,-0.3804,Negative
+509,zehrs,9 months ago,Tammy Charrier,"Still managing self distancing protocols, line sometimes is long but waiting to keep everyone safe, is priority.",0.05,0.95,0.0,-0.3804,Negative
+510,zehrs,10 months ago,Andrea Cardiff,Akash the pharmacist was very helpful and friendly. He took his time explaining to me and was available right away.,0.05,0.95,0.0,-0.3804,Negative
+511,zehrs,10 months ago,Jenna Hayman,"Delicious birthday cake even during covid, and I was able to stop at the Starbucks inside and get a drink too! They had everything I needed and the line went quickly.",0.05,0.95,0.0,-0.3804,Negative
+512,zehrs,10 months ago,Hussein Ashour,I like how clean and fresh that place,0.05,0.95,0.0,-0.3804,Negative
+513,zehrs,10 months ago,Nathaniel Weller,Friendly staff. Clean environment,0.05,0.95,0.0,-0.3804,Negative
+514,zehrs,10 months ago,Gregory McKinnon,At the time I went it was swift in and out and the staff always laugh whether they mean it or not when I Crack a joke.  Nice place to go,0.05,0.95,0.0,-0.3804,Negative
+515,zehrs,10 months ago,Grant Corkery,"This place really needs to renovate their bathrooms. For what they charge, they really need to renovate the washroom. I usage two young daughters and the times I have had to bring them in to the men's washroom I have ended up leaving the store and going home. Absolutely disguising.",0.05,0.95,0.0,-0.3804,Negative
